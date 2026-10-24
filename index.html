@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Colour of Money - Host Board</title>
+    <link rel="stylesheet" href="./src/styles/main.css">
+</head>
+<body>
+    <div id="loadingScreen" class="loading-screen" role="status" aria-live="polite">
+        <div class="loading-card">
+            <h2>The Colour of Money</h2>
+            <p id="loadingMessage">Preparing the game...</p>
+            <progress id="loadingProgress" max="100" value="0" aria-label="Game loading progress"></progress>
+            <span id="loadingPercent">0%</span>
+        </div>
+    </div>
+    <div id="app">
+        <header>
+            <h1>The Colour of Money</h1>
+            <div class="controls">
+                <label for="currencySelect">Currency:</label>
+                <select id="currencySelect">
+                    <option value="$">USD ($)</option>
+                    <option value="£">GBP (£)</option>
+                    <option value="€">EUR (€)</option>
+                    <option value="¥">JPY (¥)</option>
+                    <option value="₹">INR (₹)</option>
+                </select>
+                <button id="resetBtn">New Game / Shuffle</button>
+            </div>
+        </header>
+
+        <section class="stats-panel">
+            <div>Total Banked: <span id="totalBanked">$0</span></div>
+            <div>Tiles Remaining: <span id="tilesRemaining">20</span></div>
+            <div>Highest Remaining: <span id="highestRemaining">$20,000</span></div>
+        </section>
+
+        <main id="colorGrid" class="grid"></main>
+    </div>
+    <script type="module" src="./src/main.ts"></script>
+</body>
+</html>

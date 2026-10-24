@@ -1,0 +1,51 @@
+{
+  "name": "colour-of-money-game",
+  "version": "1.0.0",
+  "description": "Host board for The Colour of Money Game Show",
+  "main": "dist-electron/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --strictPort",
+    "build:web": "tsc --noEmit && vite build",
+    "build:electron": "tsc -p tsconfig.electron.json",
+    "build": "npm run build:web && npm run build:electron",
+    "preview": "vite preview --host 127.0.0.1 --strictPort",
+    "electron:dev": "concurrently -k \"npm:dev\" \"wait-on http://127.0.0.1:5173 && electron .\"",
+    "electron:build": "npm run build && electron-builder --win portable --x64 --publish never"
+  },
+  "build": {
+    "appId": "com.colourofmoney.hostboard",
+    "productName": "The Colour of Money",
+    "compression": "store",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "dist-electron/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "portable": {
+      "useZip": true
+    }
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "concurrently": "^8.2.2",
+    "electron": "^45.0.0",
+    "electron-builder": "^26.18.0",
+    "typescript": "^5.3.3",
+    "vite": "^8.3.5",
+    "wait-on": "^7.2.0"
+  }
+}

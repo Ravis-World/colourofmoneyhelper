@@ -1,0 +1,5002 @@
+[
+  {
+    "hex": "000000",
+    "name": "Black",
+    "votes": 10538
+  },
+  {
+    "hex": "FFFFFF",
+    "name": "White",
+    "votes": 8696
+  },
+  {
+    "hex": "696969",
+    "name": "Nice",
+    "votes": 3226
+  },
+  {
+    "hex": "FF0000",
+    "name": "Red",
+    "votes": 3197
+  },
+  {
+    "hex": "0000FF",
+    "name": "Blue",
+    "votes": 3170
+  },
+  {
+    "hex": "BADBED",
+    "name": "Cheap Mattress",
+    "votes": 2897
+  },
+  {
+    "hex": "FFFF00",
+    "name": "Yellow",
+    "votes": 2169
+  },
+  {
+    "hex": "00FF00",
+    "name": "Green",
+    "votes": 2143
+  },
+  {
+    "hex": "ABCDEF",
+    "name": "Alphabet Blue",
+    "votes": 1966
+  },
+  {
+    "hex": "189BCC",
+    "name": "Weezer Blue",
+    "votes": 1888
+  },
+  {
+    "hex": "AAAAAA",
+    "name": "Screaming Grey",
+    "votes": 1725
+  },
+  {
+    "hex": "123456",
+    "name": "Incremental Blue",
+    "votes": 1661
+  },
+  {
+    "hex": "00FFFF",
+    "name": "Cyan",
+    "votes": 1583
+  },
+  {
+    "hex": "000001",
+    "name": "It's Still Basically Black",
+    "votes": 1576
+  },
+  {
+    "hex": "E02500",
+    "name": "Tom Scott",
+    "votes": 1458
+  },
+  {
+    "hex": "FF00FF",
+    "name": "Magenta",
+    "votes": 1173
+  },
+  {
+    "hex": "666666",
+    "name": "Cursed Grey",
+    "votes": 1087
+  },
+  {
+    "hex": "FDF901",
+    "name": "Delayed Yellow",
+    "votes": 979
+  },
+  {
+    "hex": "800080",
+    "name": "Ace Purple",
+    "votes": 940
+  },
+  {
+    "hex": "7B68EE",
+    "name": "Jack's Toothbrush",
+    "votes": 918
+  },
+  {
+    "hex": "DD7CB1",
+    "name": "PJiggles Pink",
+    "votes": 850
+  },
+  {
+    "hex": "EEEEEE",
+    "name": "Screeching White",
+    "votes": 829
+  },
+  {
+    "hex": "8EEAE7",
+    "name": "Mogul Mint",
+    "votes": 828
+  },
+  {
+    "hex": "465C5E",
+    "name": "Minecraft World Teal",
+    "votes": 819
+  },
+  {
+    "hex": "FF8900",
+    "name": "Mediavida Orange",
+    "votes": 773
+  },
+  {
+    "hex": "314159",
+    "name": "Blueberry Pi",
+    "votes": 770
+  },
+  {
+    "hex": "AAE5A4",
+    "name": "Rule 34",
+    "votes": 723
+  },
+  {
+    "hex": "676767",
+    "name": "Six Seven",
+    "votes": 718
+  },
+  {
+    "hex": "420420",
+    "name": "Blaze It Dark Magenta",
+    "votes": 691
+  },
+  {
+    "hex": "FF8000",
+    "name": "Orange",
+    "votes": 682
+  },
+  {
+    "hex": "FFFFFE",
+    "name": "Off By One",
+    "votes": 670
+  },
+  {
+    "hex": "999999",
+    "name": "Million Grey",
+    "votes": 655
+  },
+  {
+    "hex": "010101",
+    "name": "Binary Black",
+    "votes": 651
+  },
+  {
+    "hex": "FEDCBA",
+    "name": "Backwards Beige",
+    "votes": 634
+  },
+  {
+    "hex": "8ACE00",
+    "name": "Brat",
+    "votes": 617
+  },
+  {
+    "hex": "654321",
+    "name": "The Final Countbrown",
+    "votes": 613
+  },
+  {
+    "hex": "FE3867",
+    "name": "Rosa Felps",
+    "votes": 608
+  },
+  {
+    "hex": "74ED24",
+    "name": "Slimecicle Logo",
+    "votes": 576
+  },
+  {
+    "hex": "F7EA48",
+    "name": "Pupa",
+    "votes": 567
+  },
+  {
+    "hex": "777777",
+    "name": "Lucky Grey",
+    "votes": 559
+  },
+  {
+    "hex": "111111",
+    "name": "We Are Number One",
+    "votes": 543
+  },
+  {
+    "hex": "B4DD1E",
+    "name": "BRAT",
+    "votes": 515
+  },
+  {
+    "hex": "B14C20",
+    "name": "Fordtramarine",
+    "votes": 510
+  },
+  {
+    "hex": "D3DB35",
+    "name": "Dead Bees",
+    "votes": 494
+  },
+  {
+    "hex": "C02C38",
+    "name": "Tom Scott Red",
+    "votes": 458
+  },
+  {
+    "hex": "00000F",
+    "name": "OOF",
+    "votes": 457
+  },
+  {
+    "hex": "100000",
+    "name": "Hundred Thousand",
+    "votes": 445
+  },
+  {
+    "hex": "FEFEFE",
+    "name": "I Can't Believe It's Not White",
+    "votes": 444
+  },
+  {
+    "hex": "808080",
+    "name": "Grey",
+    "votes": 432
+  },
+  {
+    "hex": "911911",
+    "name": "Emergency Red",
+    "votes": 423
+  },
+  {
+    "hex": "B33D00",
+    "name": "Ben Doyle",
+    "votes": 410
+  },
+  {
+    "hex": "FFE500",
+    "name": "Soltorg Yellow",
+    "votes": 381
+  },
+  {
+    "hex": "E29E1C",
+    "name": "Swordsmachine Yellow",
+    "votes": 380
+  },
+  {
+    "hex": "050D02",
+    "name": "Whiten't",
+    "votes": 377
+  },
+  {
+    "hex": "FBFF00",
+    "name": "Electric Banana",
+    "votes": 376
+  },
+  {
+    "hex": "101010",
+    "name": "Binary Gray",
+    "votes": 365
+  },
+  {
+    "hex": "663399",
+    "name": "Rebecca Purple",
+    "votes": 365
+  },
+  {
+    "hex": "FACADE",
+    "name": "Facade",
+    "votes": 359
+  },
+  {
+    "hex": "FF0400",
+    "name": "Spongebobs Tie",
+    "votes": 356
+  },
+  {
+    "hex": "FFFB00",
+    "name": "Berry Bee Benson",
+    "votes": 352
+  },
+  {
+    "hex": "000003",
+    "name": "So Close To Black It Hurts",
+    "votes": 344
+  },
+  {
+    "hex": "BADBAD",
+    "name": "Naughty Boy",
+    "votes": 337
+  },
+  {
+    "hex": "FF0004",
+    "name": "Cherry Soda Red",
+    "votes": 337
+  },
+  {
+    "hex": "505050",
+    "name": "Fiftieth Shade Of Grey",
+    "votes": 333
+  },
+  {
+    "hex": "66BFA3",
+    "name": "JOAN",
+    "votes": 329
+  },
+  {
+    "hex": "FFF8E7",
+    "name": "Cosmic Latte",
+    "votes": 329
+  },
+  {
+    "hex": "A6D0E8",
+    "name": "Ben Doyle Blue",
+    "votes": 323
+  },
+  {
+    "hex": "694200",
+    "name": "Heck Yeah",
+    "votes": 316
+  },
+  {
+    "hex": "7289DA",
+    "name": "Discord Blurple",
+    "votes": 315
+  },
+  {
+    "hex": "ED0F87",
+    "name": "Danganronpa Blood",
+    "votes": 314
+  },
+  {
+    "hex": "FF0800",
+    "name": "The Blood Of My Enemies",
+    "votes": 312
+  },
+  {
+    "hex": "4A412A",
+    "name": "Literally The Worst Colour",
+    "votes": 309
+  },
+  {
+    "hex": "F10592",
+    "name": "P1hDUH",
+    "votes": 309
+  },
+  {
+    "hex": "DE0000",
+    "name": "Bored Button's Button",
+    "votes": 307
+  },
+  {
+    "hex": "ABC123",
+    "name": "Learning Green",
+    "votes": 306
+  },
+  {
+    "hex": "800813",
+    "name": "The Legendary Calculator Code",
+    "votes": 302
+  },
+  {
+    "hex": "B8402E",
+    "name": "Ben Doyle Burgundy",
+    "votes": 302
+  },
+  {
+    "hex": "000100",
+    "name": "The Darkest Green",
+    "votes": 298
+  },
+  {
+    "hex": "00ACE6",
+    "name": "Weezer",
+    "votes": 295
+  },
+  {
+    "hex": "BAAAAA",
+    "name": "Sheep Gray",
+    "votes": 294
+  },
+  {
+    "hex": "FF6500",
+    "name": "Hacker News Orange",
+    "votes": 291
+  },
+  {
+    "hex": "FFF700",
+    "name": "SpongeBob Yellow",
+    "votes": 290
+  },
+  {
+    "hex": "BABABA",
+    "name": "Baby Talk",
+    "votes": 287
+  },
+  {
+    "hex": "CCCCCC",
+    "name": "Cerebral Grey",
+    "votes": 285
+  },
+  {
+    "hex": "FF1100",
+    "name": "Netflix",
+    "votes": 284
+  },
+  {
+    "hex": "800000",
+    "name": "Maroon",
+    "votes": 283
+  },
+  {
+    "hex": "010000",
+    "name": "It's Also Basically Black",
+    "votes": 281
+  },
+  {
+    "hex": "842593",
+    "name": "Afton",
+    "votes": 281
+  },
+  {
+    "hex": "424242",
+    "name": "Meaning Of Everything Gray",
+    "votes": 276
+  },
+  {
+    "hex": "C493C8",
+    "name": "Seth",
+    "votes": 276
+  },
+  {
+    "hex": "BEEBEE",
+    "name": "Do You Like Jazz Blue",
+    "votes": 274
+  },
+  {
+    "hex": "112358",
+    "name": "Fibonacci Blue",
+    "votes": 273
+  },
+  {
+    "hex": "008080",
+    "name": "Teal",
+    "votes": 269
+  },
+  {
+    "hex": "404404",
+    "name": "Color Not Found",
+    "votes": 268
+  },
+  {
+    "hex": "DADDAD",
+    "name": "Dad",
+    "votes": 267
+  },
+  {
+    "hex": "DEDBEE",
+    "name": "Dead Bee",
+    "votes": 265
+  },
+  {
+    "hex": "FFC0CB",
+    "name": "Pink",
+    "votes": 264
+  },
+  {
+    "hex": "000002",
+    "name": "Still Black",
+    "votes": 263
+  },
+  {
+    "hex": "222222",
+    "name": "Catch 22",
+    "votes": 263
+  },
+  {
+    "hex": "DABDAB",
+    "name": "On The Haters",
+    "votes": 263
+  },
+  {
+    "hex": "DECADE",
+    "name": "10 Years' Color",
+    "votes": 262
+  },
+  {
+    "hex": "000069",
+    "name": "Nice Blue",
+    "votes": 260
+  },
+  {
+    "hex": "FFFFFC",
+    "name": "We Have White At Home",
+    "votes": 254
+  },
+  {
+    "hex": "B4DD13",
+    "name": "Brat",
+    "votes": 244
+  },
+  {
+    "hex": "FBF985",
+    "name": "Risshella",
+    "votes": 243
+  },
+  {
+    "hex": "66FDFA",
+    "name": "Geometric Blue",
+    "votes": 242
+  },
+  {
+    "hex": "C0FFEE",
+    "name": "Mint Coffee",
+    "votes": 241
+  },
+  {
+    "hex": "BEDBED",
+    "name": "Bunkbed Blue",
+    "votes": 240
+  },
+  {
+    "hex": "FEF65B",
+    "name": "Dodie Yellow",
+    "votes": 230
+  },
+  {
+    "hex": "B83C73",
+    "name": "Red Tedir",
+    "votes": 229
+  },
+  {
+    "hex": "B00B13",
+    "name": "Abreast",
+    "votes": 227
+  },
+  {
+    "hex": "EAEAEA",
+    "name": "EA White",
+    "votes": 227
+  },
+  {
+    "hex": "DEDEDE",
+    "name": "Kingly Cloud",
+    "votes": 226
+  },
+  {
+    "hex": "F6FF00",
+    "name": "Brighter Than My Future",
+    "votes": 224
+  },
+  {
+    "hex": "FF00FB",
+    "name": "Barbies Blood",
+    "votes": 222
+  },
+  {
+    "hex": "16161D",
+    "name": "Eigengrau",
+    "votes": 219
+  },
+  {
+    "hex": "082200",
+    "name": "Geese Shat Green",
+    "votes": 217
+  },
+  {
+    "hex": "030000",
+    "name": "Technically Red",
+    "votes": 216
+  },
+  {
+    "hex": "020302",
+    "name": "Its Not A Phase Mom",
+    "votes": 214
+  },
+  {
+    "hex": "123321",
+    "name": "Greerg",
+    "votes": 213
+  },
+  {
+    "hex": "FF00F2",
+    "name": "Danganronpa Blood",
+    "votes": 213
+  },
+  {
+    "hex": "246810",
+    "name": "Even Green",
+    "votes": 212
+  },
+  {
+    "hex": "FF4715",
+    "name": "FeberHett",
+    "votes": 210
+  },
+  {
+    "hex": "FEE601",
+    "name": "Dashing Yellow",
+    "votes": 209
+  },
+  {
+    "hex": "B00000",
+    "name": "Boo Red",
+    "votes": 208
+  },
+  {
+    "hex": "BBBBBB",
+    "name": "Blyatful",
+    "votes": 208
+  },
+  {
+    "hex": "DDDDDD",
+    "name": "Steam",
+    "votes": 208
+  },
+  {
+    "hex": "00FFCC",
+    "name": "Olo",
+    "votes": 207
+  },
+  {
+    "hex": "CCFF00",
+    "name": "Antonio Kam",
+    "votes": 204
+  },
+  {
+    "hex": "042069",
+    "name": "Epic Gamer Blue",
+    "votes": 203
+  },
+  {
+    "hex": "CCCCFF",
+    "name": "Periwinkle",
+    "votes": 203
+  },
+  {
+    "hex": "987654",
+    "name": "Decreasing Beige",
+    "votes": 201
+  },
+  {
+    "hex": "BFBFBF",
+    "name": "Ibis Paint X Background Colour",
+    "votes": 200
+  },
+  {
+    "hex": "00FBFF",
+    "name": "Aggressive Aqua",
+    "votes": 195
+  },
+  {
+    "hex": "00DDC0",
+    "name": "Hatsune Miku",
+    "votes": 194
+  },
+  {
+    "hex": "0678BE",
+    "name": "Drupal Blue",
+    "votes": 192
+  },
+  {
+    "hex": "543210",
+    "name": "Liftoff Brown",
+    "votes": 192
+  },
+  {
+    "hex": "BADDAD",
+    "name": "Bad Dad",
+    "votes": 184
+  },
+  {
+    "hex": "012345",
+    "name": "Zero-Indexed Blue",
+    "votes": 182
+  },
+  {
+    "hex": "271828",
+    "name": "Euler's Aubergine",
+    "votes": 182
+  },
+  {
+    "hex": "FF0008",
+    "name": "Marinara Red",
+    "votes": 182
+  },
+  {
+    "hex": "FF0015",
+    "name": "British Phone Box Red",
+    "votes": 182
+  },
+  {
+    "hex": "123ABC",
+    "name": "Alphanumeric Blue",
+    "votes": 180
+  },
+  {
+    "hex": "A1B2C3",
+    "name": "Alphanumerical Blue",
+    "votes": 180
+  },
+  {
+    "hex": "FFFFF0",
+    "name": "Ivory",
+    "votes": 179
+  },
+  {
+    "hex": "212121",
+    "name": "Nine Plus Ten",
+    "votes": 178
+  },
+  {
+    "hex": "D00D00",
+    "name": "Doodoo",
+    "votes": 178
+  },
+  {
+    "hex": "0D00FF",
+    "name": "IKEA",
+    "votes": 177
+  },
+  {
+    "hex": "C0C0C0",
+    "name": "Silver",
+    "votes": 177
+  },
+  {
+    "hex": "CABCAB",
+    "name": "Cabs Are Not Beige",
+    "votes": 177
+  },
+  {
+    "hex": "00B6D5",
+    "name": "Weezer",
+    "votes": 176
+  },
+  {
+    "hex": "808000",
+    "name": "Olive",
+    "votes": 176
+  },
+  {
+    "hex": "F0000D",
+    "name": "Hungry Red",
+    "votes": 176
+  },
+  {
+    "hex": "DEAD00",
+    "name": "Deadly Yellow",
+    "votes": 175
+  },
+  {
+    "hex": "FF1500",
+    "name": "Carolina Reaper",
+    "votes": 173
+  },
+  {
+    "hex": "ADADAD",
+    "name": "Advertisements",
+    "votes": 172
+  },
+  {
+    "hex": "12E9A1",
+    "name": "Lelinha",
+    "votes": 171
+  },
+  {
+    "hex": "420690",
+    "name": "Nice Blaze",
+    "votes": 171
+  },
+  {
+    "hex": "969696",
+    "name": "Ecin",
+    "votes": 170
+  },
+  {
+    "hex": "DEFACE",
+    "name": "Deface",
+    "votes": 170
+  },
+  {
+    "hex": "BEADED",
+    "name": "Beaded Purple",
+    "votes": 169
+  },
+  {
+    "hex": "69B00B",
+    "name": "Very Mature",
+    "votes": 167
+  },
+  {
+    "hex": "626262",
+    "name": "Vantas Gray",
+    "votes": 165
+  },
+  {
+    "hex": "0A0006",
+    "name": "Still Brighter Than My Future",
+    "votes": 164
+  },
+  {
+    "hex": "690000",
+    "name": "Nice Red",
+    "votes": 164
+  },
+  {
+    "hex": "867530",
+    "name": "Nine",
+    "votes": 164
+  },
+  {
+    "hex": "BEEEEE",
+    "name": "Bee Blue",
+    "votes": 164
+  },
+  {
+    "hex": "00F00F",
+    "name": "Oof Oof",
+    "votes": 163
+  },
+  {
+    "hex": "FFEE00",
+    "name": "Pure Sunshine",
+    "votes": 162
+  },
+  {
+    "hex": "0004FF",
+    "name": "Sans",
+    "votes": 161
+  },
+  {
+    "hex": "4BEC13",
+    "name": "Becquerel",
+    "votes": 161
+  },
+  {
+    "hex": "960000",
+    "name": "Blood",
+    "votes": 160
+  },
+  {
+    "hex": "FFFCFF",
+    "name": "I Couldnt Get It Exactly White",
+    "votes": 159
+  },
+  {
+    "hex": "C4C4C4",
+    "name": "Explosive Grey",
+    "votes": 158
+  },
+  {
+    "hex": "0DFF00",
+    "name": "Nickelodeon Slime",
+    "votes": 157
+  },
+  {
+    "hex": "9F3835",
+    "name": "FL Studio Brown",
+    "votes": 156
+  },
+  {
+    "hex": "DADADA",
+    "name": "Dada Grey",
+    "votes": 156
+  },
+  {
+    "hex": "0F0F0F",
+    "name": "Chaos Black",
+    "votes": 155
+  },
+  {
+    "hex": "FF0019",
+    "name": "Reddy Or Not Here I Come",
+    "votes": 155
+  },
+  {
+    "hex": "FF0D00",
+    "name": "Shocking Crimson",
+    "votes": 155
+  },
+  {
+    "hex": "FFBB00",
+    "name": "The World's Future Star",
+    "votes": 154
+  },
+  {
+    "hex": "FFD700",
+    "name": "Gold",
+    "votes": 154
+  },
+  {
+    "hex": "FF0011",
+    "name": "E-Boys Led Lights",
+    "votes": 153
+  },
+  {
+    "hex": "124816",
+    "name": "Exponential Green",
+    "votes": 152
+  },
+  {
+    "hex": "CC5C5C",
+    "name": "Mazuat Red",
+    "votes": 152
+  },
+  {
+    "hex": "BAABAA",
+    "name": "White Sheep",
+    "votes": 151
+  },
+  {
+    "hex": "000080",
+    "name": "Navy",
+    "votes": 150
+  },
+  {
+    "hex": "003B6F",
+    "name": "Tardis Blue",
+    "votes": 150
+  },
+  {
+    "hex": "DABBED",
+    "name": "The Color Of 2017",
+    "votes": 150
+  },
+  {
+    "hex": "DBEE68",
+    "name": "Not Jack's Toothbrush",
+    "votes": 150
+  },
+  {
+    "hex": "202020",
+    "name": "Coronavirus Black",
+    "votes": 149
+  },
+  {
+    "hex": "333333",
+    "name": "Dark Charcoal",
+    "votes": 149
+  },
+  {
+    "hex": "010203",
+    "name": "The Count's Black",
+    "votes": 146
+  },
+  {
+    "hex": "FF5B5A",
+    "name": "Balloon Ii Salmon",
+    "votes": 145
+  },
+  {
+    "hex": "F0F0F0",
+    "name": "Tungsten",
+    "votes": 144
+  },
+  {
+    "hex": "FCFFFF",
+    "name": "Polar Bear In A Blizzard",
+    "votes": 144
+  },
+  {
+    "hex": "000666",
+    "name": "Devilishly Dark Blue",
+    "votes": 143
+  },
+  {
+    "hex": "A55A55",
+    "name": "Cheek Red",
+    "votes": 143
+  },
+  {
+    "hex": "1100FF",
+    "name": "Blue But It Hurts Your Eyes",
+    "votes": 142
+  },
+  {
+    "hex": "E00707",
+    "name": "Strider Red",
+    "votes": 142
+  },
+  {
+    "hex": "FFEF23",
+    "name": "Oblivion Yellow",
+    "votes": 142
+  },
+  {
+    "hex": "336699",
+    "name": "MetaFilter Blue",
+    "votes": 141
+  },
+  {
+    "hex": "848252",
+    "name": "Filth From Ultrakill",
+    "votes": 141
+  },
+  {
+    "hex": "88FF88",
+    "name": "Webwork Green",
+    "votes": 141
+  },
+  {
+    "hex": "A10000",
+    "name": "Megido Red",
+    "votes": 141
+  },
+  {
+    "hex": "FFFCFC",
+    "name": "The Inside Of An Oreo",
+    "votes": 141
+  },
+  {
+    "hex": "B0000B",
+    "name": "Melon Red",
+    "votes": 139
+  },
+  {
+    "hex": "002763",
+    "name": "Yoyle Blue",
+    "votes": 138
+  },
+  {
+    "hex": "EDEDED",
+    "name": "Ed Ed N Eddy",
+    "votes": 138
+  },
+  {
+    "hex": "FEEEED",
+    "name": "Hungry White",
+    "votes": 137
+  },
+  {
+    "hex": "FF6ECC",
+    "name": "Pancreatic Pink",
+    "votes": 137
+  },
+  {
+    "hex": "276300",
+    "name": "Yoyle Green",
+    "votes": 136
+  },
+  {
+    "hex": "444444",
+    "name": "Stuck '4' Key Gray",
+    "votes": 136
+  },
+  {
+    "hex": "6AE3B5",
+    "name": "Phos",
+    "votes": 136
+  },
+  {
+    "hex": "C43CE1",
+    "name": "Cyrce Cristinne",
+    "votes": 136
+  },
+  {
+    "hex": "FF000D",
+    "name": "When The Impostor Is Super Sus",
+    "votes": 136
+  },
+  {
+    "hex": "FF5454",
+    "name": "Nade Redmaster",
+    "votes": 136
+  },
+  {
+    "hex": "8BF275",
+    "name": "Irish Spring Green Green",
+    "votes": 134
+  },
+  {
+    "hex": "FFFFF1",
+    "name": "Raw Marshmallow",
+    "votes": 134
+  },
+  {
+    "hex": "00FFFB",
+    "name": "Toothpaste",
+    "votes": 133
+  },
+  {
+    "hex": "030303",
+    "name": "Off Black",
+    "votes": 133
+  },
+  {
+    "hex": "123E19",
+    "name": "Toulouse Frajola",
+    "votes": 133
+  },
+  {
+    "hex": "AFAFAF",
+    "name": "Gray Af",
+    "votes": 132
+  },
+  {
+    "hex": "FF00F7",
+    "name": "Annoying Pink",
+    "votes": 132
+  },
+  {
+    "hex": "7F00FF",
+    "name": "Violet",
+    "votes": 131
+  },
+  {
+    "hex": "FF9900",
+    "name": "Vitamin C",
+    "votes": 131
+  },
+  {
+    "hex": "FFE100",
+    "name": "McDonald's Arches",
+    "votes": 131
+  },
+  {
+    "hex": "009CD2",
+    "name": "Weezy Blue",
+    "votes": 130
+  },
+  {
+    "hex": "135791",
+    "name": "Odd Blue",
+    "votes": 130
+  },
+  {
+    "hex": "26AFEB",
+    "name": "Ronny Blue",
+    "votes": 130
+  },
+  {
+    "hex": "BADCAB",
+    "name": "Disappointing Taxi",
+    "votes": 130
+  },
+  {
+    "hex": "008282",
+    "name": "Terezi",
+    "votes": 129
+  },
+  {
+    "hex": "7F7F7F",
+    "name": "Absolute Grey",
+    "votes": 129
+  },
+  {
+    "hex": "9966FF",
+    "name": "Scratch's Purple",
+    "votes": 129
+  },
+  {
+    "hex": "ABCABC",
+    "name": "Alphabet Foam Green",
+    "votes": 129
+  },
+  {
+    "hex": "FF007B",
+    "name": "In The Feedback",
+    "votes": 129
+  },
+  {
+    "hex": "091101",
+    "name": "Never Forgetti",
+    "votes": 128
+  },
+  {
+    "hex": "CB2F3C",
+    "name": "Tom Scott Brand",
+    "votes": 128
+  },
+  {
+    "hex": "F14668",
+    "name": "Dupe",
+    "votes": 128
+  },
+  {
+    "hex": "131313",
+    "name": "Cursed Black",
+    "votes": 127
+  },
+  {
+    "hex": "431645",
+    "name": "Six Eared Macaque",
+    "votes": 127
+  },
+  {
+    "hex": "BAEBAE",
+    "name": "Ice Ice",
+    "votes": 126
+  },
+  {
+    "hex": "FF001E",
+    "name": "Hot Flamin Cheetos",
+    "votes": 126
+  },
+  {
+    "hex": "575968",
+    "name": "Darp",
+    "votes": 125
+  },
+  {
+    "hex": "FFFCFE",
+    "name": "Salt",
+    "votes": 125
+  },
+  {
+    "hex": "007007",
+    "name": "James Bond Green",
+    "votes": 124
+  },
+  {
+    "hex": "696968",
+    "name": "We Were This Close",
+    "votes": 124
+  },
+  {
+    "hex": "FFB122",
+    "name": "Ralsei",
+    "votes": 124
+  },
+  {
+    "hex": "FFFEFC",
+    "name": "CEO Of White",
+    "votes": 124
+  },
+  {
+    "hex": "486D83",
+    "name": "Blue Loneliness",
+    "votes": 123
+  },
+  {
+    "hex": "F2FF00",
+    "name": "Spongebob",
+    "votes": 123
+  },
+  {
+    "hex": "11FF00",
+    "name": "Green Screen",
+    "votes": 122
+  },
+  {
+    "hex": "664F8C",
+    "name": "Empurple",
+    "votes": 122
+  },
+  {
+    "hex": "ACEACE",
+    "name": "Snake Eyes",
+    "votes": 122
+  },
+  {
+    "hex": "CDCDCD",
+    "name": "Compact Disc Grey",
+    "votes": 122
+  },
+  {
+    "hex": "D90DDC",
+    "name": "Frimpy's Colour",
+    "votes": 122
+  },
+  {
+    "hex": "FF7B00",
+    "name": "Donald Trump Flesh",
+    "votes": 122
+  },
+  {
+    "hex": "00FF1A",
+    "name": "Dream",
+    "votes": 121
+  },
+  {
+    "hex": "050505",
+    "name": "Five-degree Black",
+    "votes": 120
+  },
+  {
+    "hex": "0715CD",
+    "name": "John Egbert Blue",
+    "votes": 120
+  },
+  {
+    "hex": "1EEB01",
+    "name": "Creeper Aw Man",
+    "votes": 120
+  },
+  {
+    "hex": "B0ACB4",
+    "name": "Ihseong",
+    "votes": 120
+  },
+  {
+    "hex": "FCFCFC",
+    "name": "Snowflake",
+    "votes": 120
+  },
+  {
+    "hex": "FFD000",
+    "name": "Cheese",
+    "votes": 119
+  },
+  {
+    "hex": "23AACC",
+    "name": "Kilpatrick",
+    "votes": 118
+  },
+  {
+    "hex": "7C548A",
+    "name": "Charles Cuevas Purple",
+    "votes": 118
+  },
+  {
+    "hex": "FEFCFF",
+    "name": "Mom We Have White At Home",
+    "votes": 118
+  },
+  {
+    "hex": "007FFF",
+    "name": "Azure",
+    "votes": 117
+  },
+  {
+    "hex": "00FF08",
+    "name": "Eye Strain Lime",
+    "votes": 117
+  },
+  {
+    "hex": "D2993D",
+    "name": "Everybody Do The Wenis",
+    "votes": 117
+  },
+  {
+    "hex": "FAFAFA",
+    "name": "The Official Grayfruit Sheen",
+    "votes": 117
+  },
+  {
+    "hex": "FF9800",
+    "name": "Orange Guy Orange",
+    "votes": 117
+  },
+  {
+    "hex": "006900",
+    "name": "Nice Green",
+    "votes": 116
+  },
+  {
+    "hex": "0400FF",
+    "name": "Lapis Lipstick",
+    "votes": 116
+  },
+  {
+    "hex": "123123",
+    "name": "Test123",
+    "votes": 116
+  },
+  {
+    "hex": "BEDBAD",
+    "name": "Mattress Cheap",
+    "votes": 116
+  },
+  {
+    "hex": "BEEEEF",
+    "name": "BEEF",
+    "votes": 116
+  },
+  {
+    "hex": "EE7A7A",
+    "name": "An Almost Pink Red",
+    "votes": 116
+  },
+  {
+    "hex": "EEFF00",
+    "name": "3 Coats Of Highlighter",
+    "votes": 116
+  },
+  {
+    "hex": "FF00BB",
+    "name": "Danganronpa Blood",
+    "votes": 116
+  },
+  {
+    "hex": "FF00D4",
+    "name": "Danganronpa Blood",
+    "votes": 116
+  },
+  {
+    "hex": "DABDEE",
+    "name": "Side Character Energy",
+    "votes": 115
+  },
+  {
+    "hex": "FF00A2",
+    "name": "This Pink Is Hotter Than Me",
+    "votes": 115
+  },
+  {
+    "hex": "FFE600",
+    "name": "Lemonade With Sugar",
+    "votes": 115
+  },
+  {
+    "hex": "000FFF",
+    "name": "Bloof",
+    "votes": 114
+  },
+  {
+    "hex": "00D1B2",
+    "name": "Name A Color",
+    "votes": 114
+  },
+  {
+    "hex": "80FF00",
+    "name": "Lime",
+    "votes": 114
+  },
+  {
+    "hex": "FCE300",
+    "name": "Bandito Yellow",
+    "votes": 114
+  },
+  {
+    "hex": "133700",
+    "name": "Elite Green",
+    "votes": 113
+  },
+  {
+    "hex": "AA00FF",
+    "name": "Enderdragon Breath",
+    "votes": 113
+  },
+  {
+    "hex": "FF00A0",
+    "name": "Barbie",
+    "votes": 113
+  },
+  {
+    "hex": "FF6969",
+    "name": "Tyrannical Salmon",
+    "votes": 113
+  },
+  {
+    "hex": "414141",
+    "name": "Did Unc Snap",
+    "votes": 112
+  },
+  {
+    "hex": "FEEDED",
+    "name": "Incorrect Grammar Pink",
+    "votes": 112
+  },
+  {
+    "hex": "AEAEAE",
+    "name": "Angry Mexican Mom",
+    "votes": 111
+  },
+  {
+    "hex": "B0B0B0",
+    "name": "Bobobo",
+    "votes": 111
+  },
+  {
+    "hex": "FFCC00",
+    "name": "Sunflower Island",
+    "votes": 111
+  },
+  {
+    "hex": "FFF200",
+    "name": "SpongeBob PopsicIe",
+    "votes": 111
+  },
+  {
+    "hex": "18F85B",
+    "name": "Lucky Amazing Green",
+    "votes": 110
+  },
+  {
+    "hex": "1A2B3C",
+    "name": "Forward",
+    "votes": 110
+  },
+  {
+    "hex": "FD6C22",
+    "name": "Oppositelock Orange",
+    "votes": 109
+  },
+  {
+    "hex": "FF008C",
+    "name": "Barbie Breeze",
+    "votes": 109
+  },
+  {
+    "hex": "FF9CAE",
+    "name": "Color And Electricity C00lkidd",
+    "votes": 109
+  },
+  {
+    "hex": "001AFF",
+    "name": "Sonic",
+    "votes": 108
+  },
+  {
+    "hex": "069420",
+    "name": "Epic Koosh Green",
+    "votes": 108
+  },
+  {
+    "hex": "0A0A0A",
+    "name": "Jet Black",
+    "votes": 108
+  },
+  {
+    "hex": "454545",
+    "name": "Immature Slate Gray",
+    "votes": 108
+  },
+  {
+    "hex": "555555",
+    "name": "Stone Cold Gray",
+    "votes": 108
+  },
+  {
+    "hex": "B0BB0B",
+    "name": "Rossross",
+    "votes": 108
+  },
+  {
+    "hex": "F1F1F1",
+    "name": "Paper",
+    "votes": 108
+  },
+  {
+    "hex": "001337",
+    "name": "Leet Navy",
+    "votes": 107
+  },
+  {
+    "hex": "FF00A6",
+    "name": "Steroid Barbie",
+    "votes": 107
+  },
+  {
+    "hex": "FFFAFF",
+    "name": "Your Phone At 3am",
+    "votes": 107
+  },
+  {
+    "hex": "00FF04",
+    "name": "Electric Pickle",
+    "votes": 106
+  },
+  {
+    "hex": "94B1FF",
+    "name": "Colour Of Infinite Temperature",
+    "votes": 106
+  },
+  {
+    "hex": "B8DD8A",
+    "name": "Cuban Roach",
+    "votes": 106
+  },
+  {
+    "hex": "FF4B80",
+    "name": "Proship Pink",
+    "votes": 106
+  },
+  {
+    "hex": "FF9100",
+    "name": "Its Nerf Or Nothin'",
+    "votes": 106
+  },
+  {
+    "hex": "030201",
+    "name": "I Can't Believe It's Not Black",
+    "votes": 105
+  },
+  {
+    "hex": "6A006A",
+    "name": "Caligulas Aquarium",
+    "votes": 105
+  },
+  {
+    "hex": "DEADED",
+    "name": "Unliving Pink",
+    "votes": 105
+  },
+  {
+    "hex": "FCFFFA",
+    "name": "Egg",
+    "votes": 105
+  },
+  {
+    "hex": "00FF11",
+    "name": "Green Screen",
+    "votes": 102
+  },
+  {
+    "hex": "FCFEFF",
+    "name": "Not Entirely White",
+    "votes": 102
+  },
+  {
+    "hex": "FF00D0",
+    "name": "Barbie's Dreamhouse",
+    "votes": 102
+  },
+  {
+    "hex": "000DA0",
+    "name": "Lyran Dasz",
+    "votes": 101
+  },
+  {
+    "hex": "0099D3",
+    "name": "Rivers Bluomo",
+    "votes": 101
+  },
+  {
+    "hex": "123457",
+    "name": "Blue Please Learn How To Count",
+    "votes": 101
+  },
+  {
+    "hex": "420666",
+    "name": "Demon Weed",
+    "votes": 101
+  },
+  {
+    "hex": "FAFEF7",
+    "name": "The Useless Crayon",
+    "votes": 101
+  },
+  {
+    "hex": "FF0088",
+    "name": "Burning Raspberry",
+    "votes": 101
+  },
+  {
+    "hex": "0D061F",
+    "name": "Neon Black",
+    "votes": 100
+  },
+  {
+    "hex": "3B57FF",
+    "name": "Borderline Blue",
+    "votes": 100
+  },
+  {
+    "hex": "F0F8FF",
+    "name": "Alice Blue",
+    "votes": 100
+  },
+  {
+    "hex": "00CC00",
+    "name": "Tunic Green",
+    "votes": 99
+  },
+  {
+    "hex": "235711",
+    "name": "Forest Primes",
+    "votes": 99
+  },
+  {
+    "hex": "964B00",
+    "name": "Brown",
+    "votes": 99
+  },
+  {
+    "hex": "FAFFFA",
+    "name": "Invisible Crayon",
+    "votes": 99
+  },
+  {
+    "hex": "FEDFED",
+    "name": "Stuffed Pink",
+    "votes": 99
+  },
+  {
+    "hex": "000007",
+    "name": "Double O Seven",
+    "votes": 98
+  },
+  {
+    "hex": "177013",
+    "name": "Emergence",
+    "votes": 98
+  },
+  {
+    "hex": "75B049",
+    "name": "Minecraft",
+    "votes": 98
+  },
+  {
+    "hex": "AEFAC6",
+    "name": "Mint",
+    "votes": 98
+  },
+  {
+    "hex": "C3E7FD",
+    "name": "Baby Blue",
+    "votes": 98
+  },
+  {
+    "hex": "0FF1CE",
+    "name": "Office Turquoise",
+    "votes": 97
+  },
+  {
+    "hex": "141414",
+    "name": "A Distinctive Lack Of Hue",
+    "votes": 97
+  },
+  {
+    "hex": "1A1A1A",
+    "name": "La La La",
+    "votes": 97
+  },
+  {
+    "hex": "1DE9B6",
+    "name": "1de9b6",
+    "votes": 97
+  },
+  {
+    "hex": "1F1E33",
+    "name": "Cametek",
+    "votes": 97
+  },
+  {
+    "hex": "BADD1E",
+    "name": "Baddie Green",
+    "votes": 97
+  },
+  {
+    "hex": "FFFAFD",
+    "name": "You Can Barely Tell It's Pink",
+    "votes": 97
+  },
+  {
+    "hex": "009001",
+    "name": "Over 9000 Green",
+    "votes": 96
+  },
+  {
+    "hex": "B3039E",
+    "name": "Patti's Mane",
+    "votes": 96
+  },
+  {
+    "hex": "FF002B",
+    "name": "Popping Cherry Chapstick",
+    "votes": 96
+  },
+  {
+    "hex": "3DA542",
+    "name": "Aromantic Dark Green",
+    "votes": 95
+  },
+  {
+    "hex": "FD0841",
+    "name": "Hakurei Reimu",
+    "votes": 95
+  },
+  {
+    "hex": "FFC400",
+    "name": "Hamilton",
+    "votes": 95
+  },
+  {
+    "hex": "000042",
+    "name": "The Answer",
+    "votes": 94
+  },
+  {
+    "hex": "666777",
+    "name": "Heaven And Hell",
+    "votes": 94
+  },
+  {
+    "hex": "F79400",
+    "name": "Trump",
+    "votes": 94
+  },
+  {
+    "hex": "FF002F",
+    "name": "Rabid Raspberry",
+    "votes": 94
+  },
+  {
+    "hex": "FF1900",
+    "name": "Kachow",
+    "votes": 94
+  },
+  {
+    "hex": "FF7700",
+    "name": "Cheese Ball Dust",
+    "votes": 94
+  },
+  {
+    "hex": "FFF00D",
+    "name": "Butcher Vanity",
+    "votes": 94
+  },
+  {
+    "hex": "0080FF",
+    "name": "Azure",
+    "votes": 93
+  },
+  {
+    "hex": "00FCDB",
+    "name": "Miku",
+    "votes": 93
+  },
+  {
+    "hex": "141421",
+    "name": "The Square Root Of Blue",
+    "votes": 93
+  },
+  {
+    "hex": "1EFF00",
+    "name": "Duolingo Is At Your Door",
+    "votes": 93
+  },
+  {
+    "hex": "404040",
+    "name": "Error 404",
+    "votes": 93
+  },
+  {
+    "hex": "4285F4",
+    "name": "Google Blue",
+    "votes": 93
+  },
+  {
+    "hex": "646464",
+    "name": "Stack Of Grey",
+    "votes": 93
+  },
+  {
+    "hex": "666999",
+    "name": "Triple Decker Nice",
+    "votes": 93
+  },
+  {
+    "hex": "ABABAB",
+    "name": "3-Pack Abs",
+    "votes": 93
+  },
+  {
+    "hex": "BFBBFB",
+    "name": "Let's Be Called The Winners",
+    "votes": 93
+  },
+  {
+    "hex": "F7B4C6",
+    "name": "IGOR",
+    "votes": 93
+  },
+  {
+    "hex": "FF00AE",
+    "name": "Mean Girls Lipstick",
+    "votes": 93
+  },
+  {
+    "hex": "FFBF00",
+    "name": "Amber",
+    "votes": 93
+  },
+  {
+    "hex": "00000A",
+    "name": "Minecraft Void",
+    "votes": 92
+  },
+  {
+    "hex": "BABA15",
+    "name": "Baba Is Yellow",
+    "votes": 92
+  },
+  {
+    "hex": "FEEFEE",
+    "name": "Double Dues",
+    "votes": 92
+  },
+  {
+    "hex": "FF0026",
+    "name": "Vivid Cranberry",
+    "votes": 92
+  },
+  {
+    "hex": "FFAEC9",
+    "name": "Big Shot Pink",
+    "votes": 92
+  },
+  {
+    "hex": "686868",
+    "name": "Not Quite Nice",
+    "votes": 91
+  },
+  {
+    "hex": "997ABF",
+    "name": "Twitch Descolorido",
+    "votes": 91
+  },
+  {
+    "hex": "DEADBE",
+    "name": "Dead Bee",
+    "votes": 91
+  },
+  {
+    "hex": "E1E100",
+    "name": "Old MacDonald's Yellow",
+    "votes": 91
+  },
+  {
+    "hex": "FEEEEE",
+    "name": "Taxes",
+    "votes": 91
+  },
+  {
+    "hex": "005682",
+    "name": "Arachnid's Grip Cerulean",
+    "votes": 90
+  },
+  {
+    "hex": "6276A3",
+    "name": "Hamlindigo Blue",
+    "votes": 90
+  },
+  {
+    "hex": "F42069",
+    "name": "Haha Nice Pink",
+    "votes": 90
+  },
+  {
+    "hex": "3D3D3D",
+    "name": "3D Black",
+    "votes": 89
+  },
+  {
+    "hex": "445061",
+    "name": "Tim Hein",
+    "votes": 89
+  },
+  {
+    "hex": "FF00EE",
+    "name": "Danganronpa BlO0d",
+    "votes": 89
+  },
+  {
+    "hex": "00F7FF",
+    "name": "Reef Waters",
+    "votes": 88
+  },
+  {
+    "hex": "011235",
+    "name": "Fibonacci Navy",
+    "votes": 88
+  },
+  {
+    "hex": "082217",
+    "name": "The Unmade Podcast",
+    "votes": 88
+  },
+  {
+    "hex": "234567",
+    "name": "You Forgot 1",
+    "votes": 88
+  },
+  {
+    "hex": "4782C9",
+    "name": "Sansational",
+    "votes": 88
+  },
+  {
+    "hex": "A2B3C5",
+    "name": "Kilpatrick's Sadness",
+    "votes": 88
+  },
+  {
+    "hex": "BFD100",
+    "name": "Dream Island Chartreuse",
+    "votes": 88
+  },
+  {
+    "hex": "DECAFF",
+    "name": "Decaf Lavender",
+    "votes": 88
+  },
+  {
+    "hex": "FF0051",
+    "name": "Hawaiian Raspberry",
+    "votes": 88
+  },
+  {
+    "hex": "15FF00",
+    "name": "Artificial Green Apple Flavor",
+    "votes": 87
+  },
+  {
+    "hex": "DDAACC",
+    "name": "Ominous Bell Pink",
+    "votes": 87
+  },
+  {
+    "hex": "FF005D",
+    "name": "Flaming Hot Flamingoes",
+    "votes": 87
+  },
+  {
+    "hex": "00DEAD",
+    "name": "Lifeless Light",
+    "votes": 86
+  },
+  {
+    "hex": "39C5BB",
+    "name": "Miku Green",
+    "votes": 86
+  },
+  {
+    "hex": "6541AD",
+    "name": "Lateral With Tom Scott",
+    "votes": 86
+  },
+  {
+    "hex": "ABBA00",
+    "name": "Dancing Green",
+    "votes": 86
+  },
+  {
+    "hex": "FA8072",
+    "name": "Salmon",
+    "votes": 86
+  },
+  {
+    "hex": "0800FF",
+    "name": "Sonic's Ashes",
+    "votes": 85
+  },
+  {
+    "hex": "112233",
+    "name": "Seeing Double",
+    "votes": 85
+  },
+  {
+    "hex": "4AC925",
+    "name": "Harley Green",
+    "votes": 85
+  },
+  {
+    "hex": "4B0082",
+    "name": "Indigo",
+    "votes": 85
+  },
+  {
+    "hex": "665134",
+    "name": "Wild Chocolate",
+    "votes": 85
+  },
+  {
+    "hex": "FF6200",
+    "name": "My Prison Uniform",
+    "votes": 85
+  },
+  {
+    "hex": "0011FF",
+    "name": "Im Blue Labadeelabeeda",
+    "votes": 84
+  },
+  {
+    "hex": "4C43A0",
+    "name": "2am Depression",
+    "votes": 84
+  },
+  {
+    "hex": "5BCEFA",
+    "name": "Trans Cyan",
+    "votes": 84
+  },
+  {
+    "hex": "958CFF",
+    "name": "GDragon",
+    "votes": 84
+  },
+  {
+    "hex": "A349A4",
+    "name": "Seth Purple",
+    "votes": 84
+  },
+  {
+    "hex": "ABCCBA",
+    "name": "Palindrome Green",
+    "votes": 84
+  },
+  {
+    "hex": "BADDAB",
+    "name": "No Dabbing Green",
+    "votes": 84
+  },
+  {
+    "hex": "BB88ED",
+    "name": "Rui Ourple",
+    "votes": 84
+  },
+  {
+    "hex": "FDFFFC",
+    "name": "Mail In Winter",
+    "votes": 84
+  },
+  {
+    "hex": "FF009D",
+    "name": "Barbie Vomit",
+    "votes": 84
+  },
+  {
+    "hex": "FF00DD",
+    "name": "Jazzercise Leg Warmers",
+    "votes": 84
+  },
+  {
+    "hex": "FF8C00",
+    "name": "Freshly Sqeezed",
+    "votes": 84
+  },
+  {
+    "hex": "FFB700",
+    "name": "Sunflower Mango",
+    "votes": 84
+  },
+  {
+    "hex": "FFD900",
+    "name": "Soviet Gold",
+    "votes": 84
+  },
+  {
+    "hex": "58B675",
+    "name": "Kochiya Sanae",
+    "votes": 83
+  },
+  {
+    "hex": "A1A100",
+    "name": "Captorial Citroid",
+    "votes": 83
+  },
+  {
+    "hex": "BEDDED",
+    "name": "Cozy Comforter",
+    "votes": 83
+  },
+  {
+    "hex": "DEC0DE",
+    "name": "Cryptic Mauve",
+    "votes": 83
+  },
+  {
+    "hex": "E3E3E3",
+    "name": "Electronic Entertainment Expo",
+    "votes": 83
+  },
+  {
+    "hex": "C3201B",
+    "name": "Red Rocket Knot",
+    "votes": 82
+  },
+  {
+    "hex": "EF94AA",
+    "name": "Technoblade",
+    "votes": 82
+  },
+  {
+    "hex": "FEF1F0",
+    "name": "Fum",
+    "votes": 82
+  },
+  {
+    "hex": "2B0057",
+    "name": "Capricious Purple",
+    "votes": 81
+  },
+  {
+    "hex": "BEDEAD",
+    "name": "Be Dead",
+    "votes": 81
+  },
+  {
+    "hex": "DEDBE5",
+    "name": "DeadBees",
+    "votes": 81
+  },
+  {
+    "hex": "FCFFFE",
+    "name": "Angelic White",
+    "votes": 81
+  },
+  {
+    "hex": "FF0077",
+    "name": "Infinity Pink",
+    "votes": 81
+  },
+  {
+    "hex": "FFEA00",
+    "name": "Sunshine Yellow",
+    "votes": 81
+  },
+  {
+    "hex": "75F9B6",
+    "name": "Bile With Bile Limes",
+    "votes": 80
+  },
+  {
+    "hex": "FAFCFF",
+    "name": "3am Fridge Light",
+    "votes": 80
+  },
+  {
+    "hex": "FB00FF",
+    "name": "A Unicorn Sneeze",
+    "votes": 80
+  },
+  {
+    "hex": "FF0040",
+    "name": "Juicy Watermelon'",
+    "votes": 80
+  },
+  {
+    "hex": "0595DB",
+    "name": "Mendix Blue",
+    "votes": 79
+  },
+  {
+    "hex": "070707",
+    "name": "Salute Black",
+    "votes": 79
+  },
+  {
+    "hex": "1900FF",
+    "name": "Obnoxiously Blue",
+    "votes": 79
+  },
+  {
+    "hex": "2B2B2B",
+    "name": "The Question",
+    "votes": 79
+  },
+  {
+    "hex": "456789",
+    "name": "A Hint Of Incremental Blue",
+    "votes": 79
+  },
+  {
+    "hex": "5865F2",
+    "name": "Fake Blurple",
+    "votes": 79
+  },
+  {
+    "hex": "71C269",
+    "name": "Policarpio En Mal Dia",
+    "votes": 79
+  },
+  {
+    "hex": "B5D6C3",
+    "name": "Wallamaybungya Breeze",
+    "votes": 79
+  },
+  {
+    "hex": "EA8220",
+    "name": "Haxe Orange",
+    "votes": 79
+  },
+  {
+    "hex": "F00000",
+    "name": "F In Chat",
+    "votes": 79
+  },
+  {
+    "hex": "FF00E1",
+    "name": "Barbie But It Hurts To Look At",
+    "votes": 79
+  },
+  {
+    "hex": "FF9500",
+    "name": "Isolate Orange",
+    "votes": 79
+  },
+  {
+    "hex": "FFB300",
+    "name": "Cheeto Dust Color",
+    "votes": 79
+  },
+  {
+    "hex": "FFFAFA",
+    "name": "Snow",
+    "votes": 79
+  },
+  {
+    "hex": "00FE5D",
+    "name": "Vreen",
+    "votes": 78
+  },
+  {
+    "hex": "01AEDF",
+    "name": "AnniPaul",
+    "votes": 78
+  },
+  {
+    "hex": "0C0C0C",
+    "name": "Hello Darkness My Old Friend",
+    "votes": 78
+  },
+  {
+    "hex": "1AFF00",
+    "name": "Radioactive",
+    "votes": 78
+  },
+  {
+    "hex": "1DA1F2",
+    "name": "Twitter Blue",
+    "votes": 78
+  },
+  {
+    "hex": "660000",
+    "name": "Blood Red",
+    "votes": 78
+  },
+  {
+    "hex": "6F0C0D",
+    "name": "Coffee Brick",
+    "votes": 78
+  },
+  {
+    "hex": "B536DA",
+    "name": "Rose Lalonde Purple",
+    "votes": 78
+  },
+  {
+    "hex": "B76ECB",
+    "name": "Twitch Mareao",
+    "votes": 78
+  },
+  {
+    "hex": "F5A9B8",
+    "name": "Trans Pink",
+    "votes": 78
+  },
+  {
+    "hex": "FADFAD",
+    "name": "Fad Yellow",
+    "votes": 78
+  },
+  {
+    "hex": "FF5E00",
+    "name": "Flamin'Hot Cheetos",
+    "votes": 78
+  },
+  {
+    "hex": "FFFDF7",
+    "name": "Goat Cheese",
+    "votes": 78
+  },
+  {
+    "hex": "020202",
+    "name": "Black Of Twos",
+    "votes": 77
+  },
+  {
+    "hex": "04FF00",
+    "name": "Ultragreen",
+    "votes": 77
+  },
+  {
+    "hex": "133337",
+    "name": "Elite Teal",
+    "votes": 77
+  },
+  {
+    "hex": "133769",
+    "name": "Internet Artifact",
+    "votes": 77
+  },
+  {
+    "hex": "191919",
+    "name": "Rock N Roll",
+    "votes": 77
+  },
+  {
+    "hex": "323232",
+    "name": "Graphite",
+    "votes": 77
+  },
+  {
+    "hex": "36393F",
+    "name": "Discord",
+    "votes": 77
+  },
+  {
+    "hex": "40E0D0",
+    "name": "Turquoise",
+    "votes": 77
+  },
+  {
+    "hex": "A75631",
+    "name": "Jack's Orange Feet",
+    "votes": 77
+  },
+  {
+    "hex": "CFB5E2",
+    "name": "Lavender",
+    "votes": 77
+  },
+  {
+    "hex": "DDE2EC",
+    "name": "Nine From BFDI",
+    "votes": 77
+  },
+  {
+    "hex": "EF0035",
+    "name": "Awesome Car",
+    "votes": 77
+  },
+  {
+    "hex": "FCFAFF",
+    "name": "Fluffy Ice",
+    "votes": 77
+  },
+  {
+    "hex": "FEFFFC",
+    "name": "Empty Toilet Paper Aisle",
+    "votes": 77
+  },
+  {
+    "hex": "FF0080",
+    "name": "Rose",
+    "votes": 77
+  },
+  {
+    "hex": "FFDD00",
+    "name": "Sundried",
+    "votes": 77
+  },
+  {
+    "hex": "FFF9F5",
+    "name": "Sugar Milk",
+    "votes": 77
+  },
+  {
+    "hex": "01823E",
+    "name": "Chromakopia",
+    "votes": 76
+  },
+  {
+    "hex": "BFFBFF",
+    "name": "Friendship",
+    "votes": 76
+  },
+  {
+    "hex": "CBACBA",
+    "name": "Pink Battle Advanced",
+    "votes": 76
+  },
+  {
+    "hex": "FAAAAA",
+    "name": "Family Friendly Pink",
+    "votes": 76
+  },
+  {
+    "hex": "FACFAC",
+    "name": "Heck",
+    "votes": 76
+  },
+  {
+    "hex": "FAFFF7",
+    "name": "When I Open My Phone At 3AM",
+    "votes": 76
+  },
+  {
+    "hex": "FFFEFF",
+    "name": "This Is Technically Magenta",
+    "votes": 76
+  },
+  {
+    "hex": "7FFF00",
+    "name": "Chartreuse",
+    "votes": 75
+  },
+  {
+    "hex": "DEADDD",
+    "name": "Rest In Pink",
+    "votes": 75
+  },
+  {
+    "hex": "FF00D9",
+    "name": "Ow My Eyes",
+    "votes": 75
+  },
+  {
+    "hex": "FFD500",
+    "name": "Sunhouse",
+    "votes": 75
+  },
+  {
+    "hex": "AE00FF",
+    "name": "Emo Phase Hair Streak",
+    "votes": 74
+  },
+  {
+    "hex": "DEAD69",
+    "name": "Necrophilic Brown",
+    "votes": 74
+  },
+  {
+    "hex": "FABFAB",
+    "name": "Fabulous Peach",
+    "votes": 74
+  },
+  {
+    "hex": "FF0048",
+    "name": "Starburst Red",
+    "votes": 74
+  },
+  {
+    "hex": "FF4400",
+    "name": "Inferno Orange",
+    "votes": 74
+  },
+  {
+    "hex": "789789",
+    "name": "Seven Ate Nine Twice",
+    "votes": 73
+  },
+  {
+    "hex": "7CDDA8",
+    "name": "Inverted PJiggles Pink",
+    "votes": 73
+  },
+  {
+    "hex": "ADDADD",
+    "name": "Mathematical Blue",
+    "votes": 73
+  },
+  {
+    "hex": "CF0000",
+    "name": "Smoky Scarlet",
+    "votes": 73
+  },
+  {
+    "hex": "DEDDED",
+    "name": "Double Dead",
+    "votes": 73
+  },
+  {
+    "hex": "FDFCFF",
+    "name": "Angelwings",
+    "votes": 73
+  },
+  {
+    "hex": "FDFDFD",
+    "name": "Brilliance",
+    "votes": 73
+  },
+  {
+    "hex": "006969",
+    "name": "Nice Cyan",
+    "votes": 72
+  },
+  {
+    "hex": "00FF80",
+    "name": "Spring",
+    "votes": 72
+  },
+  {
+    "hex": "161803",
+    "name": "Golden Mean Green",
+    "votes": 72
+  },
+  {
+    "hex": "81D8D0",
+    "name": "Official Tiffany Blue",
+    "votes": 72
+  },
+  {
+    "hex": "A88F34",
+    "name": "Juandroide",
+    "votes": 72
+  },
+  {
+    "hex": "D1ED1E",
+    "name": "Murderous Blunge",
+    "votes": 72
+  },
+  {
+    "hex": "DEEDEE",
+    "name": "Dexter's Grey",
+    "votes": 72
+  },
+  {
+    "hex": "FF0044",
+    "name": "Sweet Cherry Chapstick",
+    "votes": 72
+  },
+  {
+    "hex": "FF69B4",
+    "name": "Pink As Hell",
+    "votes": 72
+  },
+  {
+    "hex": "080C0D",
+    "name": "Gen Z Humor",
+    "votes": 71
+  },
+  {
+    "hex": "1500FF",
+    "name": "Windows 98 Error",
+    "votes": 71
+  },
+  {
+    "hex": "66CCFF",
+    "name": "Tianyi Blue",
+    "votes": 71
+  },
+  {
+    "hex": "676869",
+    "name": "Tuff To Nice",
+    "votes": 71
+  },
+  {
+    "hex": "8000FF",
+    "name": "Violet",
+    "votes": 71
+  },
+  {
+    "hex": "9E08BE",
+    "name": "Purple Guy",
+    "votes": 71
+  },
+  {
+    "hex": "EE00FF",
+    "name": "Headache Inducing Pink",
+    "votes": 71
+  },
+  {
+    "hex": "F2A400",
+    "name": "Dirk Orange",
+    "votes": 71
+  },
+  {
+    "hex": "FCE0E2",
+    "name": "Taylor Swift",
+    "votes": 71
+  },
+  {
+    "hex": "FF8800",
+    "name": "Oompa Loompa Type Beat",
+    "votes": 71
+  },
+  {
+    "hex": "0099FF",
+    "name": "Vexus Blue",
+    "votes": 70
+  },
+  {
+    "hex": "544146",
+    "name": "Thomas's Colour",
+    "votes": 70
+  },
+  {
+    "hex": "6F00FF",
+    "name": "Electric Indigo",
+    "votes": 70
+  },
+  {
+    "hex": "787878",
+    "name": "Minecraft Title",
+    "votes": 70
+  },
+  {
+    "hex": "AAF895",
+    "name": "The Gayest Of The Frogs",
+    "votes": 70
+  },
+  {
+    "hex": "F00D1E",
+    "name": "Gourmet",
+    "votes": 70
+  },
+  {
+    "hex": "FBFAFF",
+    "name": "Almost There White",
+    "votes": 70
+  },
+  {
+    "hex": "FF2200",
+    "name": "Before The Roblox Logo Got Emo",
+    "votes": 70
+  },
+  {
+    "hex": "008000",
+    "name": "Dark Green",
+    "votes": 69
+  },
+  {
+    "hex": "2A3DE2",
+    "name": "Sam Denby",
+    "votes": 69
+  },
+  {
+    "hex": "505505",
+    "name": "Cry For Help",
+    "votes": 69
+  },
+  {
+    "hex": "7F6B8C",
+    "name": "Eclipse Federation",
+    "votes": 69
+  },
+  {
+    "hex": "A181B3",
+    "name": "Lavender Haze",
+    "votes": 69
+  },
+  {
+    "hex": "AC1D1C",
+    "name": "Corrosive Red",
+    "votes": 69
+  },
+  {
+    "hex": "ACACAC",
+    "name": "Mr Krabs Laugh",
+    "votes": 69
+  },
+  {
+    "hex": "CD0000",
+    "name": "Communist Red",
+    "votes": 69
+  },
+  {
+    "hex": "E32200",
+    "name": "Bomb Rush Red",
+    "votes": 69
+  },
+  {
+    "hex": "EAFF00",
+    "name": "Battery Acid",
+    "votes": 69
+  },
+  {
+    "hex": "FEFFFF",
+    "name": "Snowdrop",
+    "votes": 69
+  },
+  {
+    "hex": "FF0089",
+    "name": "Barbie Pink",
+    "votes": 69
+  },
+  {
+    "hex": "FF6A00",
+    "name": "Cheetos",
+    "votes": 69
+  },
+  {
+    "hex": "FFFFFD",
+    "name": "Off By Two",
+    "votes": 69
+  },
+  {
+    "hex": "000004",
+    "name": "Blackerererer",
+    "votes": 68
+  },
+  {
+    "hex": "000DFF",
+    "name": "Luna Blue",
+    "votes": 68
+  },
+  {
+    "hex": "0015FF",
+    "name": "Blue Electricity",
+    "votes": 68
+  },
+  {
+    "hex": "252525",
+    "name": "Funnier Than 24",
+    "votes": 68
+  },
+  {
+    "hex": "2DA9E0",
+    "name": "Windshield Wiper Fluid",
+    "votes": 68
+  },
+  {
+    "hex": "318008",
+    "name": "Calculator Joke Green",
+    "votes": 68
+  },
+  {
+    "hex": "345678",
+    "name": "Kinda Incremental Blue",
+    "votes": 68
+  },
+  {
+    "hex": "73ABEB",
+    "name": "Sky Blue",
+    "votes": 68
+  },
+  {
+    "hex": "9593FF",
+    "name": "Artifyber Blurple",
+    "votes": 68
+  },
+  {
+    "hex": "98B317",
+    "name": "Khaki Soup",
+    "votes": 68
+  },
+  {
+    "hex": "AABBCC",
+    "name": "Alphabetical Doubles",
+    "votes": 68
+  },
+  {
+    "hex": "BECC41",
+    "name": "Weezer Green",
+    "votes": 68
+  },
+  {
+    "hex": "BF00FF",
+    "name": "Electric Purple",
+    "votes": 68
+  },
+  {
+    "hex": "F00F00",
+    "name": "Foo Red",
+    "votes": 68
+  },
+  {
+    "hex": "FAEFAE",
+    "name": "Fairy Honey",
+    "votes": 68
+  },
+  {
+    "hex": "FF003C",
+    "name": "Tropical Fruity Red",
+    "votes": 68
+  },
+  {
+    "hex": "FF4000",
+    "name": "Vermilion",
+    "votes": 68
+  },
+  {
+    "hex": "000067",
+    "name": "Diddyblud Blue",
+    "votes": 67
+  },
+  {
+    "hex": "004182",
+    "name": "Vriska",
+    "votes": 67
+  },
+  {
+    "hex": "020203",
+    "name": "Black But Screw You Its Grey",
+    "votes": 67
+  },
+  {
+    "hex": "070407",
+    "name": "It's Quiet Uptown",
+    "votes": 67
+  },
+  {
+    "hex": "2BFF00",
+    "name": "Nuclear Gem",
+    "votes": 67
+  },
+  {
+    "hex": "9500FF",
+    "name": "Star Platinum",
+    "votes": 67
+  },
+  {
+    "hex": "E23D28",
+    "name": "Swatchling Red",
+    "votes": 67
+  },
+  {
+    "hex": "FF00C8",
+    "name": "Electric Pink",
+    "votes": 67
+  },
+  {
+    "hex": "FF2A00",
+    "name": "Flamin Hot Cheetos",
+    "votes": 67
+  },
+  {
+    "hex": "FF7300",
+    "name": "Donald Trumps Foundation Shade",
+    "votes": 67
+  },
+  {
+    "hex": "000103",
+    "name": "Ocean's Deepest Water",
+    "votes": 66
+  },
+  {
+    "hex": "000420",
+    "name": "Haha Nice",
+    "votes": 66
+  },
+  {
+    "hex": "00F2FF",
+    "name": "Underwater Ocean Mist",
+    "votes": 66
+  },
+  {
+    "hex": "00FF15",
+    "name": "Billy Irish",
+    "votes": 66
+  },
+  {
+    "hex": "123567",
+    "name": "Fourgotten",
+    "votes": 66
+  },
+  {
+    "hex": "1DB954",
+    "name": "Spotify Green",
+    "votes": 66
+  },
+  {
+    "hex": "2CCCD3",
+    "name": "Sparky Blue",
+    "votes": 66
+  },
+  {
+    "hex": "393939",
+    "name": "Puro Grey",
+    "votes": 66
+  },
+  {
+    "hex": "398588",
+    "name": "Depths Of Teal",
+    "votes": 66
+  },
+  {
+    "hex": "A15000",
+    "name": "Adios Toreador",
+    "votes": 66
+  },
+  {
+    "hex": "AAE5A3",
+    "name": "Rule34 Green",
+    "votes": 66
+  },
+  {
+    "hex": "D9FF00",
+    "name": "I Got A New Highlighter",
+    "votes": 66
+  },
+  {
+    "hex": "FF00EA",
+    "name": "Kindergartners Nails",
+    "votes": 66
+  },
+  {
+    "hex": "00AEEF",
+    "name": "Harablue",
+    "votes": 65
+  },
+  {
+    "hex": "00FF33",
+    "name": "Oh My God This Hurts My Eyes",
+    "votes": 65
+  },
+  {
+    "hex": "020A08",
+    "name": "Its Not A Phase Mom",
+    "votes": 65
+  },
+  {
+    "hex": "22FF00",
+    "name": "Electrical Green",
+    "votes": 65
+  },
+  {
+    "hex": "616161",
+    "name": "Niche Gray",
+    "votes": 65
+  },
+  {
+    "hex": "800869",
+    "name": "The Funniest Color",
+    "votes": 65
+  },
+  {
+    "hex": "8F00D1",
+    "name": "Wemmbu Purple",
+    "votes": 65
+  },
+  {
+    "hex": "9C9C46",
+    "name": "Polispol Mareado",
+    "votes": 65
+  },
+  {
+    "hex": "A000FF",
+    "name": "Purple",
+    "votes": 65
+  },
+  {
+    "hex": "C0FEFE",
+    "name": "Covfefe Mint",
+    "votes": 65
+  },
+  {
+    "hex": "CBC0E0",
+    "name": "Aimsey Purple",
+    "votes": 65
+  },
+  {
+    "hex": "D00D1E",
+    "name": "Doodle Red",
+    "votes": 65
+  },
+  {
+    "hex": "DDFF00",
+    "name": "Cheap Yellow Highlighter",
+    "votes": 65
+  },
+  {
+    "hex": "E4E4E4",
+    "name": "Titanium White",
+    "votes": 65
+  },
+  {
+    "hex": "F4F4F4",
+    "name": "Alt F4",
+    "votes": 65
+  },
+  {
+    "hex": "FF00E6",
+    "name": "Headache Depression Pink",
+    "votes": 65
+  },
+  {
+    "hex": "FFAA00",
+    "name": "LegacyFlight Gold",
+    "votes": 65
+  },
+  {
+    "hex": "080000",
+    "name": "Nicalis Black",
+    "votes": 64
+  },
+  {
+    "hex": "10F400",
+    "name": "Aadenboy Green",
+    "votes": 64
+  },
+  {
+    "hex": "2164F4",
+    "name": "Bright Blue",
+    "votes": 64
+  },
+  {
+    "hex": "49EB09",
+    "name": "Adam Chase",
+    "votes": 64
+  },
+  {
+    "hex": "999998",
+    "name": "Unsatisfying Grey",
+    "votes": 64
+  },
+  {
+    "hex": "E19ADA",
+    "name": "UwU",
+    "votes": 64
+  },
+  {
+    "hex": "FF5500",
+    "name": "Cheeto Dusttt",
+    "votes": 64
+  },
+  {
+    "hex": "00FFF7",
+    "name": "Hatstune Miku",
+    "votes": 63
+  },
+  {
+    "hex": "100001",
+    "name": "Palindromic Dark Red",
+    "votes": 63
+  },
+  {
+    "hex": "1ECEC3",
+    "name": "Minecraft Diamond",
+    "votes": 63
+  },
+  {
+    "hex": "200000",
+    "name": "The Netherrack",
+    "votes": 63
+  },
+  {
+    "hex": "2196F3",
+    "name": "Housecall",
+    "votes": 63
+  },
+  {
+    "hex": "E62100",
+    "name": "Furry Orange",
+    "votes": 63
+  },
+  {
+    "hex": "F7FAFF",
+    "name": "Crying On The Bathroom Floor",
+    "votes": 63
+  },
+  {
+    "hex": "FF0090",
+    "name": "Pink Panther",
+    "votes": 63
+  },
+  {
+    "hex": "FF7E30",
+    "name": "Channel Orange",
+    "votes": 63
+  },
+  {
+    "hex": "FF91AF",
+    "name": "Baker-Miller Pink",
+    "votes": 63
+  },
+  {
+    "hex": "FFAB19",
+    "name": "Scratch Cat Orange",
+    "votes": 63
+  },
+  {
+    "hex": "FFFFF5",
+    "name": "French Vanilla Sunrise",
+    "votes": 63
+  },
+  {
+    "hex": "000010",
+    "name": "Darkened Navy Blue",
+    "votes": 62
+  },
+  {
+    "hex": "000301",
+    "name": "The Nearly Perfect Void",
+    "votes": 62
+  },
+  {
+    "hex": "024601",
+    "name": "Jean Valjean",
+    "votes": 62
+  },
+  {
+    "hex": "10ADE1",
+    "name": "Jadinha",
+    "votes": 62
+  },
+  {
+    "hex": "413413",
+    "name": "Homestuck's Mud Pile",
+    "votes": 62
+  },
+  {
+    "hex": "456456",
+    "name": "Ive Named This Color Before",
+    "votes": 62
+  },
+  {
+    "hex": "4E2A1E",
+    "name": "Morena D'Onofrio's Eyes",
+    "votes": 62
+  },
+  {
+    "hex": "95FF00",
+    "name": "Neon Lime",
+    "votes": 62
+  },
+  {
+    "hex": "9900FF",
+    "name": "Perplexed Purple",
+    "votes": 62
+  },
+  {
+    "hex": "ABACAB",
+    "name": "Abacaba Grey",
+    "votes": 62
+  },
+  {
+    "hex": "C0CC0C",
+    "name": "Two Roosters",
+    "votes": 62
+  },
+  {
+    "hex": "D0000D",
+    "name": "Whoa Red",
+    "votes": 62
+  },
+  {
+    "hex": "DABADE",
+    "name": "I'm Periwinkle",
+    "votes": 62
+  },
+  {
+    "hex": "E00000",
+    "name": "Tyrannical Red",
+    "votes": 62
+  },
+  {
+    "hex": "E1FF00",
+    "name": "Luminescent Banana",
+    "votes": 62
+  },
+  {
+    "hex": "F39200",
+    "name": "Kevert Narancs",
+    "votes": 62
+  },
+  {
+    "hex": "FBF7FF",
+    "name": "Nintendo Wii",
+    "votes": 62
+  },
+  {
+    "hex": "FF006A",
+    "name": "Shocking Rose",
+    "votes": 62
+  },
+  {
+    "hex": "00BABA",
+    "name": "Baba Is Blue",
+    "votes": 61
+  },
+  {
+    "hex": "00CEFF",
+    "name": "Hatsune Miku",
+    "votes": 61
+  },
+  {
+    "hex": "420696",
+    "name": "A Chaotic Discord Server",
+    "votes": 61
+  },
+  {
+    "hex": "738678",
+    "name": "Xanadu",
+    "votes": 61
+  },
+  {
+    "hex": "929292",
+    "name": "Uranium",
+    "votes": 61
+  },
+  {
+    "hex": "AFDAF1",
+    "name": "Sky",
+    "votes": 61
+  },
+  {
+    "hex": "BABA00",
+    "name": "Baba Is You",
+    "votes": 61
+  },
+  {
+    "hex": "BBCBBC",
+    "name": "BBC News",
+    "votes": 61
+  },
+  {
+    "hex": "C9000D",
+    "name": "The Bored Button",
+    "votes": 61
+  },
+  {
+    "hex": "FAFBFF",
+    "name": "My Grandmas Wig",
+    "votes": 61
+  },
+  {
+    "hex": "FD0101",
+    "name": "Karkat",
+    "votes": 61
+  },
+  {
+    "hex": "FF0066",
+    "name": "Interference Red",
+    "votes": 61
+  },
+  {
+    "hex": "FF4C80",
+    "name": "Radqueer Pink",
+    "votes": 61
+  },
+  {
+    "hex": "FFE32E",
+    "name": "Banana",
+    "votes": 61
+  },
+  {
+    "hex": "010103",
+    "name": "Walmart Version Of Black",
+    "votes": 60
+  },
+  {
+    "hex": "09FF00",
+    "name": "Neon Kermit",
+    "votes": 60
+  },
+  {
+    "hex": "26FF00",
+    "name": "Nuclear Power",
+    "votes": 60
+  },
+  {
+    "hex": "628318",
+    "name": "Tau Apple Green",
+    "votes": 60
+  },
+  {
+    "hex": "77003C",
+    "name": "Cuttlefish Culler Tyrian",
+    "votes": 60
+  },
+  {
+    "hex": "7FFFD4",
+    "name": "Aquamarine",
+    "votes": 60
+  },
+  {
+    "hex": "AF26DA",
+    "name": "Bts",
+    "votes": 60
+  },
+  {
+    "hex": "BCBCBC",
+    "name": "Before Christ",
+    "votes": 60
+  },
+  {
+    "hex": "C00C00",
+    "name": "Kookoo Red",
+    "votes": 60
+  },
+  {
+    "hex": "CA7CA7",
+    "name": "Kitty",
+    "votes": 60
+  },
+  {
+    "hex": "CC0000",
+    "name": "USSR Red",
+    "votes": 60
+  },
+  {
+    "hex": "D64F81",
+    "name": "Love",
+    "votes": 60
+  },
+  {
+    "hex": "EC9CC0",
+    "name": "Baby Kiss Me",
+    "votes": 60
+  },
+  {
+    "hex": "EE6130",
+    "name": "Brainzooming Orange Blast",
+    "votes": 60
+  },
+  {
+    "hex": "FEFFFA",
+    "name": "Toilet Paper",
+    "votes": 60
+  },
+  {
+    "hex": "FF007F",
+    "name": "Rose",
+    "votes": 60
+  },
+  {
+    "hex": "0012FF",
+    "name": "Blueberry Benson",
+    "votes": 59
+  },
+  {
+    "hex": "00FF26",
+    "name": "Cyber Neon Green",
+    "votes": 59
+  },
+  {
+    "hex": "324BF4",
+    "name": "Borderline Blue",
+    "votes": 59
+  },
+  {
+    "hex": "7B2055",
+    "name": "Plum",
+    "votes": 59
+  },
+  {
+    "hex": "800020",
+    "name": "Burgundy",
+    "votes": 59
+  },
+  {
+    "hex": "804000",
+    "name": "Brown",
+    "votes": 59
+  },
+  {
+    "hex": "B200FF",
+    "name": "Msushi Purple",
+    "votes": 59
+  },
+  {
+    "hex": "C8FF00",
+    "name": "Liquid Neon",
+    "votes": 59
+  },
+  {
+    "hex": "DADB0D",
+    "name": "Beer Belly",
+    "votes": 59
+  },
+  {
+    "hex": "F700FF",
+    "name": "Magenta With Personality",
+    "votes": 59
+  },
+  {
+    "hex": "FEED00",
+    "name": "Feed Me Yellow",
+    "votes": 59
+  },
+  {
+    "hex": "FF0001",
+    "name": "Rainbow's Outer Rim",
+    "votes": 59
+  },
+  {
+    "hex": "FF006F",
+    "name": "Kathy Red",
+    "votes": 59
+  },
+  {
+    "hex": "FF0073",
+    "name": "Retro Pink Pop",
+    "votes": 59
+  },
+  {
+    "hex": "FF00BF",
+    "name": "Barbie",
+    "votes": 59
+  },
+  {
+    "hex": "FFFDFA",
+    "name": "Murderous Goose",
+    "votes": 59
+  },
+  {
+    "hex": "FFFEFA",
+    "name": "Wedding Dress",
+    "votes": 59
+  },
+  {
+    "hex": "000217",
+    "name": "Depression",
+    "votes": 58
+  },
+  {
+    "hex": "010302",
+    "name": "Eight Ball",
+    "votes": 58
+  },
+  {
+    "hex": "102030",
+    "name": "Deca Navy",
+    "votes": 58
+  },
+  {
+    "hex": "109876",
+    "name": "Downwards Green",
+    "votes": 58
+  },
+  {
+    "hex": "321123",
+    "name": "Ynagogany",
+    "votes": 58
+  },
+  {
+    "hex": "434343",
+    "name": "Hidden Six Seven",
+    "votes": 58
+  },
+  {
+    "hex": "D4213D",
+    "name": "Polish Red",
+    "votes": 58
+  },
+  {
+    "hex": "FAFFFD",
+    "name": "Clouds From Heaven",
+    "votes": 58
+  },
+  {
+    "hex": "FF0037",
+    "name": "The Blood Of Your Enemies",
+    "votes": 58
+  },
+  {
+    "hex": "FF0099",
+    "name": "Big Bang Pink",
+    "votes": 58
+  },
+  {
+    "hex": "FF1515",
+    "name": "Chiffoi Red",
+    "votes": 58
+  },
+  {
+    "hex": "FF2600",
+    "name": "Scarlet Glow",
+    "votes": 58
+  },
+  {
+    "hex": "FFD1D9",
+    "name": "Pink Lemonade",
+    "votes": 58
+  },
+  {
+    "hex": "008141",
+    "name": "Maryam Green",
+    "votes": 57
+  },
+  {
+    "hex": "050408",
+    "name": "Sirius Black",
+    "votes": 57
+  },
+  {
+    "hex": "171717",
+    "name": "Cynical Black",
+    "votes": 57
+  },
+  {
+    "hex": "4C5769",
+    "name": "Official Grayfruit Gray",
+    "votes": 57
+  },
+  {
+    "hex": "6101C3",
+    "name": "Yeah",
+    "votes": 57
+  },
+  {
+    "hex": "900000",
+    "name": "Red Over 9000",
+    "votes": 57
+  },
+  {
+    "hex": "91AE93",
+    "name": "Ashen Leaves",
+    "votes": 57
+  },
+  {
+    "hex": "B000B5",
+    "name": "Milky Chance",
+    "votes": 57
+  },
+  {
+    "hex": "CACACA",
+    "name": "Almost There Moon",
+    "votes": 57
+  },
+  {
+    "hex": "E3C500",
+    "name": "Mustard",
+    "votes": 57
+  },
+  {
+    "hex": "EEFF0C",
+    "name": "Cause It's Funny",
+    "votes": 57
+  },
+  {
+    "hex": "F3F3F3",
+    "name": "Weezer White Album Color",
+    "votes": 57
+  },
+  {
+    "hex": "FAFFFC",
+    "name": "Transcended",
+    "votes": 57
+  },
+  {
+    "hex": "FF2400",
+    "name": "Scarlet",
+    "votes": 57
+  },
+  {
+    "hex": "000101",
+    "name": "Voidish-Cyan",
+    "votes": 56
+  },
+  {
+    "hex": "007474",
+    "name": "Skobeloff",
+    "votes": 56
+  },
+  {
+    "hex": "00FFBB",
+    "name": "Cold Mint",
+    "votes": 56
+  },
+  {
+    "hex": "00FFF2",
+    "name": "Mystic Blue",
+    "votes": 56
+  },
+  {
+    "hex": "020003",
+    "name": "Actually Its Purple",
+    "votes": 56
+  },
+  {
+    "hex": "131072",
+    "name": "Blue To The Seventeenth",
+    "votes": 56
+  },
+  {
+    "hex": "2DA7E4",
+    "name": "I Got My Own Stile",
+    "votes": 56
+  },
+  {
+    "hex": "2FACED",
+    "name": "Two-Faced Blue",
+    "votes": 56
+  },
+  {
+    "hex": "57058B",
+    "name": "UWaterloo EngSoc Purple",
+    "votes": 56
+  },
+  {
+    "hex": "5AD5AD",
+    "name": "Sad Sad Teal",
+    "votes": 56
+  },
+  {
+    "hex": "666000",
+    "name": "Devilishly Yellow",
+    "votes": 56
+  },
+  {
+    "hex": "7D4071",
+    "name": "A Deep Commitment To Purple",
+    "votes": 56
+  },
+  {
+    "hex": "BACBAC",
+    "name": "Guess Whos Bac",
+    "votes": 56
+  },
+  {
+    "hex": "BEEF00",
+    "name": "Rotten Beef",
+    "votes": 56
+  },
+  {
+    "hex": "C73D2E",
+    "name": "Chanax",
+    "votes": 56
+  },
+  {
+    "hex": "DABAD0",
+    "name": "Flintstone Pink",
+    "votes": 56
+  },
+  {
+    "hex": "E21B1B",
+    "name": "Capitalism Red",
+    "votes": 56
+  },
+  {
+    "hex": "FACCCC",
+    "name": "Swearing Salmon",
+    "votes": 56
+  },
+  {
+    "hex": "000056",
+    "name": "Void Heir",
+    "votes": 55
+  },
+  {
+    "hex": "0000AD",
+    "name": "What Would Jesus Blue",
+    "votes": 55
+  },
+  {
+    "hex": "006666",
+    "name": "Attmay Green",
+    "votes": 55
+  },
+  {
+    "hex": "010003",
+    "name": "Obsidian Violet",
+    "votes": 55
+  },
+  {
+    "hex": "040A05",
+    "name": "Memento Mori",
+    "votes": 55
+  },
+  {
+    "hex": "101101",
+    "name": "Laughing Black",
+    "votes": 55
+  },
+  {
+    "hex": "3DBA14",
+    "name": "React Green",
+    "votes": 55
+  },
+  {
+    "hex": "5BFFDE",
+    "name": "Naive Cyan",
+    "votes": 55
+  },
+  {
+    "hex": "B00BA5",
+    "name": "Awooga",
+    "votes": 55
+  },
+  {
+    "hex": "BAFF1E",
+    "name": "Baffling Lime",
+    "votes": 55
+  },
+  {
+    "hex": "D00000",
+    "name": "Yabba Dabba",
+    "votes": 55
+  },
+  {
+    "hex": "D1CD1C",
+    "name": "Dik-Dik",
+    "votes": 55
+  },
+  {
+    "hex": "DEAF00",
+    "name": "Deaf Orange",
+    "votes": 55
+  },
+  {
+    "hex": "E0A2C6",
+    "name": "Harry Styles",
+    "votes": 55
+  },
+  {
+    "hex": "E4A8CA",
+    "name": "Obsessed With Cuteness",
+    "votes": 55
+  },
+  {
+    "hex": "F0FFFF",
+    "name": "Azure Mist",
+    "votes": 55
+  },
+  {
+    "hex": "F8F8F8",
+    "name": "Institutional White",
+    "votes": 55
+  },
+  {
+    "hex": "FDF7FF",
+    "name": "I Think This Is Called White",
+    "votes": 55
+  },
+  {
+    "hex": "FF0033",
+    "name": "Rasberry Acai",
+    "votes": 55
+  },
+  {
+    "hex": "FF00B7",
+    "name": "Bubblegum Bright",
+    "votes": 55
+  },
+  {
+    "hex": "FFFAFB",
+    "name": "Dont Wear This To A Wedding",
+    "votes": 55
+  },
+  {
+    "hex": "00008B",
+    "name": "Dark Blue",
+    "votes": 54
+  },
+  {
+    "hex": "000911",
+    "name": "Emergency Black",
+    "votes": 54
+  },
+  {
+    "hex": "000BFB",
+    "name": "Battle For Bfdi Blue",
+    "votes": 54
+  },
+  {
+    "hex": "00D5F2",
+    "name": "Gumshoe Turquoise",
+    "votes": 54
+  },
+  {
+    "hex": "00EE8A",
+    "name": "That One Guy On Discord",
+    "votes": 54
+  },
+  {
+    "hex": "1AFF1A",
+    "name": "Schreck Green",
+    "votes": 54
+  },
+  {
+    "hex": "5DD979",
+    "name": "9 Out Of 10 Dentists",
+    "votes": 54
+  },
+  {
+    "hex": "ACDC00",
+    "name": "Thunderstruck Neon",
+    "votes": 54
+  },
+  {
+    "hex": "BADFAD",
+    "name": "Bad Fad",
+    "votes": 54
+  },
+  {
+    "hex": "C53C22",
+    "name": "Swordsmachine Agony Red",
+    "votes": 54
+  },
+  {
+    "hex": "F00509",
+    "name": "Soviet Russia",
+    "votes": 54
+  },
+  {
+    "hex": "F5FDFF",
+    "name": "Math Test Paper",
+    "votes": 54
+  },
+  {
+    "hex": "F7F7F7",
+    "name": "Lynx White",
+    "votes": 54
+  },
+  {
+    "hex": "FF1A1A",
+    "name": "Mario",
+    "votes": 54
+  },
+  {
+    "hex": "FF1E00",
+    "name": "Emergency Reds",
+    "votes": 54
+  },
+  {
+    "hex": "000005",
+    "name": "Draining Kiss",
+    "votes": 53
+  },
+  {
+    "hex": "0000E5",
+    "name": "Nullifying Blue",
+    "votes": 53
+  },
+  {
+    "hex": "0000FE",
+    "name": "Very Close To Blue",
+    "votes": 53
+  },
+  {
+    "hex": "008FC4",
+    "name": "Exact Color Of WEEZER",
+    "votes": 53
+  },
+  {
+    "hex": "00FFEA",
+    "name": "Caribbean",
+    "votes": 53
+  },
+  {
+    "hex": "0741F9",
+    "name": "Computer Crash",
+    "votes": 53
+  },
+  {
+    "hex": "0C00EC",
+    "name": "Blue Screen Of Death",
+    "votes": 53
+  },
+  {
+    "hex": "25B3C7",
+    "name": "Swordsmachine Tundra Blue",
+    "votes": 53
+  },
+  {
+    "hex": "2FFF00",
+    "name": "Battery-Powered",
+    "votes": 53
+  },
+  {
+    "hex": "4000FF",
+    "name": "Indigo",
+    "votes": 53
+  },
+  {
+    "hex": "4B4B4B",
+    "name": "Dusty Chimney",
+    "votes": 53
+  },
+  {
+    "hex": "4E3076",
+    "name": "Furious Violet",
+    "votes": 53
+  },
+  {
+    "hex": "7CFC0E",
+    "name": "Lurid Tennisball",
+    "votes": 53
+  },
+  {
+    "hex": "7E7E7F",
+    "name": "I Guess It Was A Phase Mom",
+    "votes": 53
+  },
+  {
+    "hex": "9A35E7",
+    "name": "SpringSims",
+    "votes": 53
+  },
+  {
+    "hex": "B6FFBA",
+    "name": "Pleasuring Yourself Green",
+    "votes": 53
+  },
+  {
+    "hex": "D08439",
+    "name": "Cat",
+    "votes": 53
+  },
+  {
+    "hex": "D0FF00",
+    "name": "Lemon-Lime Sherbert",
+    "votes": 53
+  },
+  {
+    "hex": "F0CF0C",
+    "name": "Cursing Yellow",
+    "votes": 53
+  },
+  {
+    "hex": "FDFFF5",
+    "name": "Milk",
+    "votes": 53
+  },
+  {
+    "hex": "FF0059",
+    "name": "New York Sunset",
+    "votes": 53
+  },
+  {
+    "hex": "FF0084",
+    "name": "Cherryade Sunrise",
+    "votes": 53
+  },
+  {
+    "hex": "FF0606",
+    "name": "Determination",
+    "votes": 53
+  },
+  {
+    "hex": "FF7BF0",
+    "name": "Serp Serpal Serpals Pink",
+    "votes": 53
+  },
+  {
+    "hex": "FFFFCC",
+    "name": "Smots Gaming Yellow",
+    "votes": 53
+  },
+  {
+    "hex": "008B8B",
+    "name": "Auke En Jorrit Cyan",
+    "votes": 52
+  },
+  {
+    "hex": "009BCE",
+    "name": "You Just Got Weezer'd",
+    "votes": 52
+  },
+  {
+    "hex": "00BFD1",
+    "name": "Dream Island Cyan",
+    "votes": 52
+  },
+  {
+    "hex": "00FFBF",
+    "name": "Poolside Teal",
+    "votes": 52
+  },
+  {
+    "hex": "040404",
+    "name": "Error Black",
+    "votes": 52
+  },
+  {
+    "hex": "070476",
+    "name": "Freedom Blue",
+    "votes": 52
+  },
+  {
+    "hex": "287DFF",
+    "name": "Geometry Dash",
+    "votes": 52
+  },
+  {
+    "hex": "690420",
+    "name": "Nice Dank Red",
+    "votes": 52
+  },
+  {
+    "hex": "8080FF",
+    "name": "Normal Map Blue",
+    "votes": 52
+  },
+  {
+    "hex": "9966CC",
+    "name": "Amethyst",
+    "votes": 52
+  },
+  {
+    "hex": "BEEFED",
+    "name": "PETA",
+    "votes": 52
+  },
+  {
+    "hex": "C0CE01",
+    "name": "NCT Green",
+    "votes": 52
+  },
+  {
+    "hex": "DE8E1F",
+    "name": "Cheems",
+    "votes": 52
+  },
+  {
+    "hex": "F0FFF0",
+    "name": "Honeydew",
+    "votes": 52
+  },
+  {
+    "hex": "FB1FB1",
+    "name": "FBI",
+    "votes": 52
+  },
+  {
+    "hex": "FF00C3",
+    "name": "If Regina George Was A Colour",
+    "votes": 52
+  },
+  {
+    "hex": "FF00D2",
+    "name": "Danganronpa",
+    "votes": 52
+  },
+  {
+    "hex": "FFFC00",
+    "name": "Snapchat Yellow",
+    "votes": 52
+  },
+  {
+    "hex": "0008FF",
+    "name": "Ocean Rider",
+    "votes": 51
+  },
+  {
+    "hex": "001EFF",
+    "name": "Even Colorblind People See It",
+    "votes": 51
+  },
+  {
+    "hex": "00CCFF",
+    "name": "Vivid Sky Blue",
+    "votes": 51
+  },
+  {
+    "hex": "091021",
+    "name": "Stupid Black",
+    "votes": 51
+  },
+  {
+    "hex": "124567",
+    "name": "Valve Blue",
+    "votes": 51
+  },
+  {
+    "hex": "55FF00",
+    "name": "Green Screen Green",
+    "votes": 51
+  },
+  {
+    "hex": "58419C",
+    "name": "Will Wood Purple",
+    "votes": 51
+  },
+  {
+    "hex": "717713",
+    "name": "Tittie",
+    "votes": 51
+  },
+  {
+    "hex": "911000",
+    "name": "Emergency Blood Transfusion",
+    "votes": 51
+  },
+  {
+    "hex": "A1A1A1",
+    "name": "Stale Steak",
+    "votes": 51
+  },
+  {
+    "hex": "BB88EE",
+    "name": "Showtime Planner",
+    "votes": 51
+  },
+  {
+    "hex": "E9E8E7",
+    "name": "Polish White",
+    "votes": 51
+  },
+  {
+    "hex": "F20707",
+    "name": "Roblox",
+    "votes": 51
+  },
+  {
+    "hex": "F7FDFF",
+    "name": "In A Distant Dream",
+    "votes": 51
+  },
+  {
+    "hex": "FADED0",
+    "name": "Faded Lace",
+    "votes": 51
+  },
+  {
+    "hex": "FE0000",
+    "name": "Simply Red",
+    "votes": 51
+  },
+  {
+    "hex": "FF00CC",
+    "name": "DanganRonpa Death Juice",
+    "votes": 51
+  },
+  {
+    "hex": "FF3300",
+    "name": "Sunset By The Nile",
+    "votes": 51
+  },
+  {
+    "hex": "FF4D00",
+    "name": "Ron Weasley's Hair Color",
+    "votes": 51
+  },
+  {
+    "hex": "FFFFF2",
+    "name": "The Cheaper White",
+    "votes": 51
+  },
+  {
+    "hex": "FFFFF9",
+    "name": "White On A Budget",
+    "votes": 51
+  },
+  {
+    "hex": "00BD9A",
+    "name": "Curse You Perry The Platypus",
+    "votes": 50
+  },
+  {
+    "hex": "00E5FF",
+    "name": "Bouncy Blue",
+    "votes": 50
+  },
+  {
+    "hex": "020305",
+    "name": "Donda Black",
+    "votes": 50
+  },
+  {
+    "hex": "4D4D4D",
+    "name": "Time Gray",
+    "votes": 50
+  },
+  {
+    "hex": "6366F1",
+    "name": "Wasting Money Indigo",
+    "votes": 50
+  },
+  {
+    "hex": "AE94D5",
+    "name": "Bob Shinanigan",
+    "votes": 50
+  },
+  {
+    "hex": "CBCBCB",
+    "name": "Cerebellum Grey",
+    "votes": 50
+  },
+  {
+    "hex": "CF080B",
+    "name": "Depressed Crayon",
+    "votes": 50
+  },
+  {
+    "hex": "CF2D71",
+    "name": "Barnaby Munted Beetroot",
+    "votes": 50
+  },
+  {
+    "hex": "D2B48C",
+    "name": "Tan",
+    "votes": 50
+  },
+  {
+    "hex": "FA1A1A",
+    "name": "Christmas Carol Red",
+    "votes": 50
+  },
+  {
+    "hex": "FACE00",
+    "name": "Sick Face",
+    "votes": 50
+  },
+  {
+    "hex": "FF00B3",
+    "name": "The Blood When Kokichi Died",
+    "votes": 50
+  },
+  {
+    "hex": "FF58E3",
+    "name": "Official Grayfruit Pink",
+    "votes": 50
+  },
+  {
+    "hex": "FF8400",
+    "name": "The New Black",
+    "votes": 50
+  },
+  {
+    "hex": "FFF06F",
+    "name": "Flowery",
+    "votes": 50
+  },
+  {
+    "hex": "FFFBF5",
+    "name": "Powder Pearl",
+    "votes": 50
+  },
+  {
+    "hex": "001984",
+    "name": "Totalitarian Blue",
+    "votes": 49
+  },
+  {
+    "hex": "010100",
+    "name": "Darkest Yellow",
+    "votes": 49
+  },
+  {
+    "hex": "010300",
+    "name": "Belive It Or Not It's Green",
+    "votes": 49
+  },
+  {
+    "hex": "020D0D",
+    "name": "Unus",
+    "votes": 49
+  },
+  {
+    "hex": "080808",
+    "name": "8-Degree Black",
+    "votes": 49
+  },
+  {
+    "hex": "0FF0FF",
+    "name": "Off Cyan",
+    "votes": 49
+  },
+  {
+    "hex": "2CB05D",
+    "name": "Datchia Green",
+    "votes": 49
+  },
+  {
+    "hex": "2ED73A",
+    "name": "Cherubim",
+    "votes": 49
+  },
+  {
+    "hex": "420069",
+    "name": "Virgin Purple",
+    "votes": 49
+  },
+  {
+    "hex": "4BFFCA",
+    "name": "Darkship Cyan",
+    "votes": 49
+  },
+  {
+    "hex": "4DFF00",
+    "name": "Tropical Uranium Green",
+    "votes": 49
+  },
+  {
+    "hex": "707070",
+    "name": "Gemini Gray",
+    "votes": 49
+  },
+  {
+    "hex": "910A4E",
+    "name": "Mary's Mulberry",
+    "votes": 49
+  },
+  {
+    "hex": "D0D0D0",
+    "name": "Ancestral Water",
+    "votes": 49
+  },
+  {
+    "hex": "D2001B",
+    "name": "Cinepol",
+    "votes": 49
+  },
+  {
+    "hex": "DBDF88",
+    "name": "Nyamo Yellow",
+    "votes": 49
+  },
+  {
+    "hex": "DECAF0",
+    "name": "Zero Decaf Lilac",
+    "votes": 49
+  },
+  {
+    "hex": "FF00AA",
+    "name": "Danganronpa Blood",
+    "votes": 49
+  },
+  {
+    "hex": "0047AB",
+    "name": "Cobalt Blue",
+    "votes": 48
+  },
+  {
+    "hex": "0088FF",
+    "name": "Zoom Online Meeting",
+    "votes": 48
+  },
+  {
+    "hex": "0DEAD0",
+    "name": "Deadly Teal",
+    "votes": 48
+  },
+  {
+    "hex": "27FF27",
+    "name": "SMOOV Green",
+    "votes": 48
+  },
+  {
+    "hex": "78BDE4",
+    "name": "Holiday Pool",
+    "votes": 48
+  },
+  {
+    "hex": "ABBBBA",
+    "name": "Dancing Queen",
+    "votes": 48
+  },
+  {
+    "hex": "AE6A29",
+    "name": "Minecraft Chest",
+    "votes": 48
+  },
+  {
+    "hex": "BAFFED",
+    "name": "Baffed",
+    "votes": 48
+  },
+  {
+    "hex": "BEBEBE",
+    "name": "Tin Soldier",
+    "votes": 48
+  },
+  {
+    "hex": "CC00FF",
+    "name": "Tinky Winky Teletubbies",
+    "votes": 48
+  },
+  {
+    "hex": "CFA4AE",
+    "name": "Dusty Rose",
+    "votes": 48
+  },
+  {
+    "hex": "CFF4E3",
+    "name": "Sea Foam",
+    "votes": 48
+  },
+  {
+    "hex": "DC143C",
+    "name": "Crimson",
+    "votes": 48
+  },
+  {
+    "hex": "E0218A",
+    "name": "Barbie Pink",
+    "votes": 48
+  },
+  {
+    "hex": "E5FF00",
+    "name": "Bumblebee Sun",
+    "votes": 48
+  },
+  {
+    "hex": "E7B53B",
+    "name": "Australium",
+    "votes": 48
+  },
+  {
+    "hex": "EA213A",
+    "name": "Weezer Red",
+    "votes": 48
+  },
+  {
+    "hex": "F5F5FF",
+    "name": "Dad Went To Go Get Milk",
+    "votes": 48
+  },
+  {
+    "hex": "FF004C",
+    "name": "Summer Raspberry",
+    "votes": 48
+  },
+  {
+    "hex": "FFCEE7",
+    "name": "Sugarcandy Pink",
+    "votes": 48
+  },
+  {
+    "hex": "FFD9EB",
+    "name": "Cherry Blossom",
+    "votes": 48
+  },
+  {
+    "hex": "FFF0FF",
+    "name": "Creme De La Rosa",
+    "votes": 48
+  },
+  {
+    "hex": "000300",
+    "name": "Court Of Nightmares",
+    "votes": 47
+  },
+  {
+    "hex": "003153",
+    "name": "Prussian Blue",
+    "votes": 47
+  },
+  {
+    "hex": "007BA7",
+    "name": "Cerulean",
+    "votes": 47
+  },
+  {
+    "hex": "00A86B",
+    "name": "Jade",
+    "votes": 47
+  },
+  {
+    "hex": "00CCCC",
+    "name": "Robin's Egg Blue",
+    "votes": 47
+  },
+  {
+    "hex": "00EEFF",
+    "name": "Alice In WonderBlue",
+    "votes": 47
+  },
+  {
+    "hex": "00FF40",
+    "name": "Erin",
+    "votes": 47
+  },
+  {
+    "hex": "020301",
+    "name": "Your Reflection In The Screen",
+    "votes": 47
+  },
+  {
+    "hex": "020F03",
+    "name": "Black But Apparently Not Black",
+    "votes": 47
+  },
+  {
+    "hex": "100100",
+    "name": "Binary Dollar",
+    "votes": 47
+  },
+  {
+    "hex": "16F15C",
+    "name": "Philza",
+    "votes": 47
+  },
+  {
+    "hex": "1900B8",
+    "name": "Royal Blue",
+    "votes": 47
+  },
+  {
+    "hex": "33FF00",
+    "name": "Highlighter Green",
+    "votes": 47
+  },
+  {
+    "hex": "37FF00",
+    "name": "Dreams Fav Colour",
+    "votes": 47
+  },
+  {
+    "hex": "8889CC",
+    "name": "Mafuyu Ourple",
+    "votes": 47
+  },
+  {
+    "hex": "ACCEDE",
+    "name": "Cloud Of Agreement",
+    "votes": 47
+  },
+  {
+    "hex": "AE3B99",
+    "name": "Real Men Are Feminists",
+    "votes": 47
+  },
+  {
+    "hex": "B967FF",
+    "name": "Pepega Clap",
+    "votes": 47
+  },
+  {
+    "hex": "BAAAAD",
+    "name": "Bad Sheep Grey",
+    "votes": 47
+  },
+  {
+    "hex": "CAFE00",
+    "name": "Toxic Cafe Green",
+    "votes": 47
+  },
+  {
+    "hex": "DEADAF",
+    "name": "Grim Pink",
+    "votes": 47
+  },
+  {
+    "hex": "EA4335",
+    "name": "Google Red",
+    "votes": 47
+  },
+  {
+    "hex": "FAFBF5",
+    "name": "My Wii",
+    "votes": 47
+  },
+  {
+    "hex": "FBFBFB",
+    "name": "Whiteout",
+    "votes": 47
+  },
+  {
+    "hex": "FF642B",
+    "name": "Fysikorange",
+    "votes": 47
+  },
+  {
+    "hex": "FFA500",
+    "name": "A Sweet Juicy Orange",
+    "votes": 47
+  },
+  {
+    "hex": "FFFEFE",
+    "name": "The Whitest Red",
+    "votes": 47
+  },
+  {
+    "hex": "000030",
+    "name": "Edge Of Space",
+    "votes": 46
+  },
+  {
+    "hex": "004225",
+    "name": "British Racing Green",
+    "votes": 46
+  },
+  {
+    "hex": "00E621",
+    "name": "Notices Your Lime",
+    "votes": 46
+  },
+  {
+    "hex": "00FF1E",
+    "name": "Sprite",
+    "votes": 46
+  },
+  {
+    "hex": "010301",
+    "name": "Lights Out Go To Bed",
+    "votes": 46
+  },
+  {
+    "hex": "04245C",
+    "name": "Its Not A Phase Mom",
+    "votes": 46
+  },
+  {
+    "hex": "2D2D2D",
+    "name": "Flat",
+    "votes": 46
+  },
+  {
+    "hex": "334BFF",
+    "name": "Wozniak Blue",
+    "votes": 46
+  },
+  {
+    "hex": "33AAEE",
+    "name": "Distant Yet Caring",
+    "votes": 46
+  },
+  {
+    "hex": "6082B6",
+    "name": "Glaucous",
+    "votes": 46
+  },
+  {
+    "hex": "644117",
+    "name": "Pullman Brown",
+    "votes": 46
+  },
+  {
+    "hex": "75FBED",
+    "name": "Hero Of Light",
+    "votes": 46
+  },
+  {
+    "hex": "861E93",
+    "name": "Kokichi",
+    "votes": 46
+  },
+  {
+    "hex": "9FC1ED",
+    "name": "Louis Blue",
+    "votes": 46
+  },
+  {
+    "hex": "ABEABE",
+    "name": "5 Dollar Bill",
+    "votes": 46
+  },
+  {
+    "hex": "B00BEE",
+    "name": "Scary Breasts",
+    "votes": 46
+  },
+  {
+    "hex": "B1A5ED",
+    "name": "Biased Purple",
+    "votes": 46
+  },
+  {
+    "hex": "BA0BAB",
+    "name": "Purple Baobab",
+    "votes": 46
+  },
+  {
+    "hex": "BCDDB3",
+    "name": "A Mann's Mint",
+    "votes": 46
+  },
+  {
+    "hex": "C00000",
+    "name": "Ketchup",
+    "votes": 46
+  },
+  {
+    "hex": "DCDCDC",
+    "name": "Gainsboro",
+    "votes": 46
+  },
+  {
+    "hex": "DD00FF",
+    "name": "Psychedelic Purple",
+    "votes": 46
+  },
+  {
+    "hex": "DEDB33",
+    "name": "Dead Bee",
+    "votes": 46
+  },
+  {
+    "hex": "E42B73",
+    "name": "Watermelon Sugar",
+    "votes": 46
+  },
+  {
+    "hex": "E6275D",
+    "name": "Chofismuller",
+    "votes": 46
+  },
+  {
+    "hex": "F5FFFA",
+    "name": "Mint Cream",
+    "votes": 46
+  },
+  {
+    "hex": "F9F7FF",
+    "name": "Freshley Picked Marshmellow",
+    "votes": 46
+  },
+  {
+    "hex": "FAB1ED",
+    "name": "Fairytale Pink",
+    "votes": 46
+  },
+  {
+    "hex": "FEFFF5",
+    "name": "Is This White Off To You",
+    "votes": 46
+  },
+  {
+    "hex": "FF0095",
+    "name": "Jojo Siwas Bow",
+    "votes": 46
+  },
+  {
+    "hex": "FF5100",
+    "name": "Evening Ember",
+    "votes": 46
+  },
+  {
+    "hex": "00BEEF",
+    "name": "Beef Blue",
+    "votes": 45
+  },
+  {
+    "hex": "010001",
+    "name": "Souless Skies",
+    "votes": 45
+  },
+  {
+    "hex": "030202",
+    "name": "Dark City",
+    "votes": 45
+  },
+  {
+    "hex": "090909",
+    "name": "Void Of Existential Anguish",
+    "votes": 45
+  },
+  {
+    "hex": "121212",
+    "name": "12 Black",
+    "votes": 45
+  },
+  {
+    "hex": "161222",
+    "name": "My Sleep Paralysis Demon",
+    "votes": 45
+  },
+  {
+    "hex": "255255",
+    "name": "Mistook Hex As Rgb",
+    "votes": 45
+  },
+  {
+    "hex": "34A853",
+    "name": "Google Green",
+    "votes": 45
+  },
+  {
+    "hex": "6495ED",
+    "name": "Cornflower Blue",
+    "votes": 45
+  },
+  {
+    "hex": "68686D",
+    "name": "Minecraft World Grey",
+    "votes": 45
+  },
+  {
+    "hex": "7B00FF",
+    "name": "Electric Purple",
+    "votes": 45
+  },
+  {
+    "hex": "88FE06",
+    "name": "Dibidibidis My Name Is Minho",
+    "votes": 45
+  },
+  {
+    "hex": "8B0000",
+    "name": "Dark Red",
+    "votes": 45
+  },
+  {
+    "hex": "B2B2B2",
+    "name": "Inabakumori",
+    "votes": 45
+  },
+  {
+    "hex": "BADB01",
+    "name": "What'cha Gonna Do",
+    "votes": 45
+  },
+  {
+    "hex": "CD2EDB",
+    "name": "Happy Birthday Shiro",
+    "votes": 45
+  },
+  {
+    "hex": "CF7336",
+    "name": "Mann Co Orange",
+    "votes": 45
+  },
+  {
+    "hex": "CFF0E8",
+    "name": "Squidward's Fragrance",
+    "votes": 45
+  },
+  {
+    "hex": "D20D20",
+    "name": "Roll For Advantage",
+    "votes": 45
+  },
+  {
+    "hex": "DA8488",
+    "name": "Savory Salmon",
+    "votes": 45
+  },
+  {
+    "hex": "E3256B",
+    "name": "Razzmatazz",
+    "votes": 45
+  },
+  {
+    "hex": "ED0739",
+    "name": "Crimson By The Way",
+    "votes": 45
+  },
+  {
+    "hex": "EDD32B",
+    "name": "Wilbur Soot",
+    "votes": 45
+  },
+  {
+    "hex": "EE6666",
+    "name": "The Kind Honor Student",
+    "votes": 45
+  },
+  {
+    "hex": "FFDDF9",
+    "name": "Cotton Candy",
+    "votes": 45
+  },
+  {
+    "hex": "FFF000",
+    "name": "Yellow Rose",
+    "votes": 45
+  },
+  {
+    "hex": "FFF7FE",
+    "name": "POV You Tried To Get White",
+    "votes": 45
+  },
+  {
+    "hex": "FFFCFA",
+    "name": "White As A Cloud",
+    "votes": 45
+  },
+  {
+    "hex": "FFFDFC",
+    "name": "Not-quite Not-white",
+    "votes": 45
+  },
+  {
+    "hex": "FFFEF5",
+    "name": "Coconut Creme Pie",
+    "votes": 45
+  },
+  {
+    "hex": "000011",
+    "name": "I Swear I'm Blue",
+    "votes": 44
+  },
+  {
+    "hex": "0038A8",
+    "name": "Bi-rilliant Blue",
+    "votes": 44
+  },
+  {
+    "hex": "00B7FF",
+    "name": "Ocean's Horizon",
+    "votes": 44
+  },
+  {
+    "hex": "027630",
+    "name": "Yoyle Turquoise",
+    "votes": 44
+  },
+  {
+    "hex": "030002",
+    "name": "Tokyo Black",
+    "votes": 44
+  },
+  {
+    "hex": "030102",
+    "name": "Jet Black Crow",
+    "votes": 44
+  },
+  {
+    "hex": "083503",
+    "name": "Slytherin",
+    "votes": 44
+  },
+  {
+    "hex": "1ED760",
+    "name": "Spotify",
+    "votes": 44
+  },
+  {
+    "hex": "337CCF",
+    "name": "BFB Four Blue",
+    "votes": 44
+  },
+  {
+    "hex": "373737",
+    "name": "The Most Random Color",
+    "votes": 44
+  },
+  {
+    "hex": "3AA2C6",
+    "name": "Blue Raspberry Seed",
+    "votes": 44
+  },
+  {
+    "hex": "3B56FF",
+    "name": "Scott The Woz Blue",
+    "votes": 44
+  },
+  {
+    "hex": "A95A38",
+    "name": "Queramstingekawvapjichixyzlofbed",
+    "votes": 3
+  }
+]
